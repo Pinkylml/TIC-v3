@@ -1,0 +1,76 @@
+S_Etica_Profesional
+S_Responsabilidad_Soc
+S_Gestion_Proyectos
+S_Aprendizaje_Dig
+S_Comunicacion_ESP
+S_Comunicacion_ING
+S_Liderazgo_Equipo
+administración de empresas, gestión de calidad, gestión de datos ...
+agroindustria, agronomía
+análisis de datos, análisis de materiales, análisis de sistemas ...
+aprendizaje no supervisado, aprendizaje supervisado
+arcgis, qgis
+arquitectura de computadoras
+aws, wireless
+balances de materia y energía
+base de datos
+buenas prácticas agrícolas
+caracterización, clasificación
+cartografía, topografía
+ciberseguridad, seguridad informática
+comercio exterior, economía internacional
+control de plagas
+control de procesos
+corrosión, regresión
+costos, costos industriales
+crm, scrum
+css, desarrollo web, html ...
+cálculo, cálculo numérico
+cálculo estructural, diseño estructural, geología estructural
+deep learning, inteligencia artificial, machine learning
+diseño de pcb, diseño de plantas
+distribución eléctrica, generación eléctrica
+econometría, modelos econométricos
+electrónica, electrónica analógica, electrónica digital ...
+energía renovable, sustentabilidad, trazabilidad
+estructura de datos, estructuras
+etl, latex, lte
+fibra óptica, óptica
+finanzas, mercados financieros
+geofísica, geomecánica, geotecnia
+gis, git
+ingeniería de perforación, ingeniería de yacimientos, perforación
+ingeniería de procesos, ingeniería de producción, ingeniería de software
+instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas
+instrumentación, instrumentación científica
+java, python
+just in time
+legislación ambiental, normas ambientales
+logística, supply chain
+macroeconomía, microeconomía
+marketing, ventas
+matemática aplicada, programación matemática
+matlab, matplotlib
+mecánica clásica, mecánica de materiales
+modelado
+modelado ambiental, modelado geológico
+modelado de datos, modelado matemático
+modelado de reservorios, reservorios
+optimización, optimización de procesos
+producción
+protocolos de comunicación
+react, revit
+sensores, sensores remotos
+simulación, simulación de procesos
+sistemas de información
+telefonía ip, voz sobre ip
+teoría cuántica, teoría de juegos, teoría de números
+termodinámica, termodinámica química
+tratamiento de aguas, tratamientos térmicos
+visualización de datos
+planificación de la producción
+planificación de obras
+procesamiento de alimentos
+procesamiento de lenguaje natural
+redes
+redes neuronales

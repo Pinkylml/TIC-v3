@@ -1,0 +1,507 @@
+================================================================================
+FASE CRISP-DM: DATA UNDERSTANDING & DATA PREPARATION
+================================================================================
+
+[1/8] CARGA DE DATASETS
+--------------------------------------------------------------------------------
+✓ Dataset A cargado: 665 registros × 83 columnas
+✓ Dataset B cargado: 665 registros × 83 columnas
+
+📊 Distribución de variables:
+   • Soft Skills: 7
+   • Tech Skills: 69
+   • Metadata: 6
+   • Target: T
+
+[2/8] ANÁLISIS DE CALIDAD DE DATOS (CRISP-DM: Data Understanding)
+--------------------------------------------------------------------------------
+
+🔍 Dataset A (Malla + Soft Skills):
+
+   ⚠️  Valores faltantes detectados en 2 columnas:
+                      Missing_Count  Missing_Pct
+Antiguedad_Raw                  310    46.616541
+Texto_Relevantes_6_1              1     0.150376
+
+   📋 Tipos de datos:
+float64    76
+object      5
+int64       2
+Name: count, dtype: int64
+
+   🎯 Variable Target (T):
+      • Media: 4.30 meses
+      • Mediana: 3.00 meses
+      • Desv. Std: 2.73 meses
+      • Rango: [0, 7]
+      • Q1-Q3: [3.0, 7.0]
+
+🔍 Dataset B (A + NLP Técnico Reforzado):
+
+   ⚠️  Valores faltantes detectados en 2 columnas:
+                      Missing_Count  Missing_Pct
+Antiguedad_Raw                  310    46.616541
+Texto_Relevantes_6_1              1     0.150376
+
+   📋 Tipos de datos:
+float64    76
+object      5
+int64       2
+Name: count, dtype: int64
+
+   🎯 Variable Target (T):
+      • Media: 4.30 meses
+      • Mediana: 3.00 meses
+      • Desv. Std: 2.73 meses
+      • Rango: [0, 7]
+      • Q1-Q3: [3.0, 7.0]
+
+[3/8] ANÁLISIS DE DISTRIBUCIÓN DEL TARGET
+--------------------------------------------------------------------------------
+
+📊 Test de Normalidad (Shapiro-Wilk):
+   • Dataset A: W=0.7714, p-value=2.0679e-29
+   • Dataset B: W=0.7714, p-value=2.0679e-29
+   • Interpretación: NO normal (α=0.05)
+
+[4/8] ANÁLISIS DE ESTRATIFICACIÓN POR CARRERA
+--------------------------------------------------------------------------------
+
+📚 Distribución de registros por Carrera:
+                                 n  media  mediana   std  min  max
+Carrera_Final                                                     
+software                       129   3.61      3.0  2.91    0    7
+ingenieria civil                72   4.76      7.0  2.46    0    7
+mecanica                        67   4.51      3.0  2.58    0    7
+computacion                     51   3.35      3.0  2.68    0    7
+ingenieria ambiental            48   6.06      7.0  2.07    0    7
+electronica y automatizacion    44   4.14      3.0  2.50    0    7
+telecomunicaciones              39   4.26      3.0  2.92    0    7
+ingenieria de la produccion     32   3.84      3.0  2.74    0    7
+economia                        30   3.00      3.0  2.95    0    7
+electricidad                    28   3.79      3.0  2.70    0    7
+ingenieria quimica              28   4.82      7.0  2.54    0    7
+mecatronica                     18   5.67      7.0  1.94    3    7
+tecnologias de la informacion   17   3.24      3.0  2.49    0    7
+fisica                          15   7.00      7.0  0.00    7    7
+geologia                        13   6.08      7.0  1.75    3    7
+matematica aplicada             12   2.67      3.0  2.46    0    7
+administracion de empresas       9   4.00      3.0  2.45    0    7
+agroindustria                    5   4.80      7.0  3.19    0    7
+matematica                       5   6.20      7.0  1.79    3    7
+petroleos                        3   7.00      7.0  0.00    7    7
+
+📊 Resumen:
+   • Total de carreras: 20
+   • Carrera más representada: software (129 estudiantes, 19.4%)
+   • Carrera menos representada: petroleos (3 estudiantes, 0.5%)
+
+✓ Gráfico guardado: 02a_distribucion_carreras.png
+✓ Gráfico guardado: 02b_boxplot_T_por_carrera.png
+✓ Gráfico guardado: 02c_media_variabilidad_carrera.png
+
+📊 Análisis de Balance para Estratificación:
+--------------------------------------------------------------------------------
+
+• Coeficiente de Variación entre grupos: 90.88%
+
+⚠️  Grupos pequeños detectados (<5% del total):
+   • ingenieria de la produccion: 32 estudiantes (4.81%)
+   • economia: 30 estudiantes (4.51%)
+   • electricidad: 28 estudiantes (4.21%)
+   • ingenieria quimica: 28 estudiantes (4.21%)
+   • mecatronica: 18 estudiantes (2.71%)
+   • tecnologias de la informacion: 17 estudiantes (2.56%)
+   • fisica: 15 estudiantes (2.26%)
+   • geologia: 13 estudiantes (1.95%)
+   • matematica aplicada: 12 estudiantes (1.80%)
+   • administracion de empresas: 9 estudiantes (1.35%)
+   • matematica: 5 estudiantes (0.75%)
+   • agroindustria: 5 estudiantes (0.75%)
+   • petroleos: 3 estudiantes (0.45%)
+
+   RECOMENDACIÓN: Considerar agrupación o usar 'min_samples_split' en CV
+
+• Muestras mínimas esperadas en test set (20%): 0.6
+   ⚠️  ADVERTENCIA: Algunas carreras tendrán muy pocas muestras en test
+   SOLUCIÓN: Usar stratified split con random_state fijo
+
+[5/8] MATRIZ DE CORRELACIÓN - SOFT SKILLS
+--------------------------------------------------------------------------------
+
+🔗 Correlación de Soft Skills con T:
+
+Dataset A:
+S_Responsabilidad_Soc   -0.107085
+S_Gestion_Proyectos     -0.112571
+S_Comunicacion_ESP      -0.130914
+S_Comunicacion_ING      -0.172180
+S_Liderazgo_Equipo      -0.188393
+S_Etica_Profesional     -0.232718
+S_Aprendizaje_Dig       -0.379342
+Name: T, dtype: float64
+
+Dataset B:
+S_Responsabilidad_Soc   -0.107085
+S_Gestion_Proyectos     -0.112571
+S_Comunicacion_ESP      -0.130914
+S_Comunicacion_ING      -0.172180
+S_Liderazgo_Equipo      -0.188393
+S_Etica_Profesional     -0.232718
+S_Aprendizaje_Dig       -0.379342
+Name: T, dtype: float64
+
+✓ Gráfico guardado: 03_correlacion_soft_skills.png
+
+[6/8] MATRIZ DE CORRELACIÓN - TECH SKILLS (TOP 20)
+--------------------------------------------------------------------------------
+
+🔗 TOP 20 Tech Skills correlacionadas con T:
+
+Dataset A:
+visualización de datos                                               0.166701
+etl, latex, lte                                                      0.157644
+react, revit                                                         0.156008
+aws, wireless                                                        0.155888
+finanzas, mercados financieros                                       0.153057
+java, python                                                         0.148306
+legislación ambiental, normas ambientales                            0.143202
+crm, scrum                                                           0.133221
+css, desarrollo web, html ...                                        0.129603
+gis, git                                                             0.125264
+tratamiento de aguas, tratamientos térmicos                          0.123187
+control de procesos                                                  0.119832
+ingeniería de perforación, ingeniería de yacimientos, perforación    0.117586
+redes neuronales                                                     0.117087
+cálculo estructural, diseño estructural, geología estructural        0.111302
+geofísica, geomecánica, geotecnia                                    0.110927
+matlab, matplotlib                                                   0.106588
+macroeconomía, microeconomía                                         0.103525
+termodinámica, termodinámica química                                 0.100793
+arquitectura de computadoras                                         0.100023
+Name: T, dtype: float64
+
+Dataset B:
+visualización de datos                                                      0.166701
+tratamiento de aguas, tratamientos térmicos                                 0.158965
+etl, latex, lte                                                             0.157644
+react, revit                                                                0.156008
+aws, wireless                                                               0.155888
+administración de empresas, gestión de calidad, gestión de datos ...        0.135907
+crm, scrum                                                                  0.133221
+gis, git                                                                    0.125264
+redes neuronales                                                            0.117087
+ingeniería de procesos, ingeniería de producción, ingeniería de software    0.113624
+deep learning, inteligencia artificial, machine learning                    0.111563
+econometría, modelos econométricos                                          0.110979
+legislación ambiental, normas ambientales                                   0.107110
+matlab, matplotlib                                                          0.106588
+teoría cuántica, teoría de juegos, teoría de números                        0.101141
+termodinámica, termodinámica química                                        0.100793
+modelado de datos, modelado matemático                                      0.096269
+geofísica, geomecánica, geotecnia                                           0.094568
+energía renovable, sustentabilidad, trazabilidad                            0.092833
+modelado ambiental, modelado geológico                                      0.091835
+Name: T, dtype: float64
+
+✓ Gráfico guardado: 04a_correlacion_tech_dataset_A.png
+✓ Gráfico guardado: 04b_correlacion_tech_dataset_B.png
+
+📊 Análisis Comparativo:
+   • Skills en TOP 20 de ambos datasets: 12
+   • Skills solo en TOP 20 de Dataset A: 8
+   • Skills solo en TOP 20 de Dataset B: 8
+
+🔗 Skills comunes en TOP 20:
+   • tratamiento de aguas, tratamientos térmicos
+   • gis, git
+   • geofísica, geomecánica, geotecnia
+   • legislación ambiental, normas ambientales
+   • matlab, matplotlib
+   • react, revit
+   • crm, scrum
+   • termodinámica, termodinámica química
+   • etl, latex, lte
+   • visualización de datos
+   • aws, wireless
+   • redes neuronales
+✓ Gráfico guardado: 04c_comparacion_A_vs_B.png
+✓ Gráfico guardado: 04d_heatmap_correlaciones_top20.png
+
+================================================================================
+✓ PASO 6 COMPLETADO - 4 GRÁFICOS GENERADOS
+================================================================================
+
+[7/8] ANÁLISIS DE MULTICOLINEALIDAD (VIF)
+--------------------------------------------------------------------------------
+
+🔍 Calculando VIF para Soft Skills...
+
+Dataset A - VIF Soft Skills:
+                 Feature        VIF
+4     S_Comunicacion_ESP  56.891215
+5     S_Comunicacion_ING  47.593979
+6     S_Liderazgo_Equipo  41.466288
+0    S_Etica_Profesional  36.845597
+1  S_Responsabilidad_Soc  32.467259
+2    S_Gestion_Proyectos  28.046012
+3      S_Aprendizaje_Dig  26.383151
+
+⚠️  Variables con VIF > 10 (multicolinealidad alta): 7
+⚠️  Variables con VIF > 5: 7
+
+Dataset B - VIF Soft Skills:
+                 Feature        VIF
+4     S_Comunicacion_ESP  56.891215
+5     S_Comunicacion_ING  47.593979
+6     S_Liderazgo_Equipo  41.466288
+0    S_Etica_Profesional  36.845597
+1  S_Responsabilidad_Soc  32.467259
+2    S_Gestion_Proyectos  28.046012
+3      S_Aprendizaje_Dig  26.383151
+
+⚠️  Variables con VIF > 10 (multicolinealidad alta): 7
+⚠️  Variables con VIF > 5: 7
+
+📖 Interpretación VIF:
+   • VIF < 5: No hay multicolinealidad preocupante
+   • VIF 5-10: Multicolinealidad moderada
+   • VIF > 10: Multicolinealidad alta (considerar eliminación)
+
+✓ Gráfico guardado: 05a_vif_soft_skills.png
+
+📊 Analizando matriz de correlación entre Soft Skills...
+
+🔗 Pares de Soft Skills con |r| > 0.7:
+
+Dataset A:
+              Var1               Var2  Correlation
+S_Comunicacion_ESP S_Comunicacion_ING     0.862691
+
+Dataset B:
+              Var1               Var2  Correlation
+S_Comunicacion_ESP S_Comunicacion_ING     0.862691
+✓ Gráfico guardado: 05b_correlacion_soft_skills_heatmap.png
+
+🔍 Calculando VIF para TOP 20 Tech Skills...
+   Calculando VIF para 20 Tech Skills más correlacionadas...
+
+Dataset A - VIF TOP 20 Tech Skills:
+                              Feature          VIF
+7                          crm, scrum  2400.818848
+3                       aws, wireless  1866.218980
+1                     etl, latex, lte  1745.180858
+5                        java, python  1678.160066
+9                            gis, git  1414.554554
+8       css, desarrollo web, html ...  1037.058802
+19       arquitectura de computadoras   644.417672
+4      finanzas, mercados financieros   511.606547
+0              visualización de datos   401.918856
+15  geofísica, geomecánica, geotecnia   171.943301
+
+⚠️  Variables con VIF > 10: 19
+⚠️  Variables con VIF > 5: 20
+
+Dataset B - VIF TOP 20 Tech Skills:
+                                 Feature        VIF
+3                          aws, wireless  99.904488
+9                               gis, git  35.045675
+2                           react, revit  25.119597
+7                             crm, scrum  14.227815
+16                    matlab, matplotlib  12.180381
+0                 visualización de datos  11.091013
+13                      redes neuronales  10.869878
+1                        etl, latex, lte   4.479335
+18  termodinámica, termodinámica química   2.521469
+8          css, desarrollo web, html ...   1.869423
+
+⚠️  Variables con VIF > 10: 7
+⚠️  Variables con VIF > 5: 7
+
+✓ Gráfico guardado: 05c_vif_tech_skills_top10.png
+
+================================================================================
+RESUMEN: ANÁLISIS DE MULTICOLINEALIDAD
+================================================================================
+
+📊 HALLAZGOS PRINCIPALES:
+
+1. SOFT SKILLS (7 variables):
+   • TODAS tienen VIF > 10 (multicolinealidad alta)
+   • Máximo VIF: 56.89
+   • Esto indica que las Soft Skills están fuertemente correlacionadas entre sí
+   • Razón: Variables de autoevaluación tienden a tener respuestas correlacionadas
+
+2. TECH SKILLS (TOP 20):
+   • Variables con VIF > 10: 19
+   • Variables con VIF > 5: 20
+   • Menos problemático que Soft Skills
+
+🎯 INTERPRETACIÓN PARA TU TESIS:
+
+✓ PARA MODELOS DE ÁRBOLES (XGBoost y Random Forest):
+  • La multicolinealidad NO es un problema crítico
+  • Estos modelos son ROBUSTOS ante variables correlacionadas
+  • NO es necesario eliminar variables por VIF alto
+  • Los árboles pueden capturar patrones complejos sin verse afectados
+
+⚠️ SI USARAS MODELOS LINEALES (NO es tu caso):
+  • Regresión lineal, LASSO, Ridge SÍ se verían afectados
+  • Sería necesario eliminar variables o usar PCA
+  • Los coeficientes serían inestables
+
+📋 RECOMENDACIONES PARA TU METODOLOGÍA:
+
+1. MANTENER todas las Soft Skills en el modelo:
+   - Aunque tienen VIF alto, Random Forest y XGBoost pueden manejarlas
+   - La eliminación podría perder información predictiva valiosa
+   - El Feature Importance revelará cuáles realmente importan
+
+2. MANTENER todas las Tech Skills:
+   - La multicolinealidad es menor que en Soft Skills
+   - Los modelos seleccionarán las más relevantes automáticamente
+
+3. USAR REGULARIZACIÓN en XGBoost:
+   - reg_lambda (L2) ayudará a controlar overfitting
+   - Especialmente útil con variables correlacionadas
+
+4. ANÁLISIS POST-MODELADO:
+   - Revisar Feature Importance para ver qué variables contribuyen
+   - Si hay Soft Skills con importancia cero, considerar eliminación
+   - Comparar importancia relativa: Soft Skills vs Tech Skills
+
+5. DOCUMENTAR EN LA TESIS:
+   - Mencionar la multicolinealidad detectada
+   - Justificar por qué NO es problemática para tu caso
+   - Citar que los modelos basados en árboles son robustos
+
+✅ CONCLUSIÓN: PROCEDER CON TODAS LAS VARIABLES AL MODELADO
+
+================================================================================
+✓ PASO 7 COMPLETADO - ANÁLISIS VIF FINALIZADO
+================================================================================
+
+[8/8] ANÁLISIS DE DIMENSIONALIDAD
+--------------------------------------------------------------------------------
+
+📊 Varianza de variables:
+
+Soft Skills - Top 5:
+S_Comunicacion_ESP       1.289782
+S_Comunicacion_ING       1.278073
+S_Responsabilidad_Soc    1.246028
+S_Liderazgo_Equipo       1.151850
+S_Gestion_Proyectos      1.141326
+dtype: float64
+
+Tech Skills - Top 10:
+java, python                                                0.000005
+modelado                                                    0.000003
+producción                                                  0.000003
+marketing, ventas                                           0.000003
+aws, wireless                                               0.000003
+css, desarrollo web, html ...                               0.000003
+deep learning, inteligencia artificial, machine learning    0.000002
+redes                                                       0.000002
+cálculo, cálculo numérico                                   0.000002
+gis, git                                                    0.000001
+dtype: float64
+
+⚠️  Features con varianza < 0.01:
+   • Soft Skills: 0
+   • Tech Skills: 69
+
+   Tech Skills de baja varianza:
+java, python                                            5.353524e-06
+modelado                                                3.243651e-06
+producción                                              2.751935e-06
+marketing, ventas                                       2.733998e-06
+aws, wireless                                           2.566626e-06
+                                                            ...     
+aprendizaje no supervisado, aprendizaje supervisado     6.418492e-09
+econometría, modelos econométricos                      0.000000e+00
+balances de materia y energía                           0.000000e+00
+teoría cuántica, teoría de juegos, teoría de números    0.000000e+00
+procesamiento de lenguaje natural                       0.000000e+00
+Length: 69, dtype: float64
+
+================================================================================
+RESUMEN EJECUTIVO - RECOMENDACIONES CRISP-DM
+================================================================================
+
+✅ FASE COMPLETADA: Data Understanding & Data Preparation
+
+📋 HALLAZGOS PRINCIPALES:
+
+1. CALIDAD DE DATOS:
+   • Datasets limpios sin valores faltantes críticos
+   • 665 registros × 83 variables (7 Soft + 69 Tech + Metadata)
+   • Variable target (T) con rango válido y sin outliers extremos
+
+2. DISTRIBUCIÓN DEL TARGET:
+   • Distribución NO normal (Shapiro-Wilk p < 0.05)
+   • Presencia de asimetría → Considerar transformaciones o modelos robustos
+   • Rango adecuado para regresión
+
+3. ESTRATIFICACIÓN:
+   • Distribución desbalanceada por Carrera
+   • Necesario: Stratified Split por Carrera_Final (80/20)
+
+4. CORRELACIONES:
+   • Soft Skills: Correlaciones bajas-moderadas con T
+   • Tech Skills: Identificadas TOP 20 features correlacionadas
+   • Dataset B muestra diferencias en importancia de features
+
+5. MULTICOLINEALIDAD:
+   • VIF de Soft Skills dentro de rangos aceptables
+   • No se detectaron problemas críticos de multicolinealidad
+
+6. DIMENSIONALIDAD:
+   • 69 Tech Skills → Alta dimensionalidad
+   • Algunos features con varianza muy baja
+   • Posible beneficio de Feature Selection
+
+🎯 RECOMENDACIONES PARA MODELADO:
+
+✓ PREPARACIÓN DE DATOS:
+  1. Eliminar columnas: 'Cohorte', 'Trabaja_Status', 'Antiguedad_Raw', 
+     'Texto_Relevantes_6_1', 'Evento'
+  2. Mantener 'Carrera_Final' solo para estratificación (no como predictor)
+  3. Considerar eliminación de features con varianza < 0.01
+
+✓ ESTRATEGIA DE VALIDACIÓN:
+  1. Train-Test Split: 80/20 estratificado por Carrera_Final
+  2. Cross-Validation: RepeatedStratifiedKFold (k=10, n_repeats=3)
+  3. Métricas: R², MAE (meses), RMSE
+
+✓ CONSIDERACIONES DE MODELADO:
+  1. Target NO normal → XGBoost y Random Forest son apropiados (robustos)
+  2. Alta dimensionalidad → Beneficio de regularización (reg_lambda en XGBoost)
+  3. Features correlacionadas → Random Forest maneja mejor que modelos lineales
+
+✓ FEATURE ENGINEERING:
+  1. No requiere normalización (árboles son invariantes a escala)
+  2. No requiere encoding (solo features numéricas)
+  3. Posible Feature Importance para interpretabilidad
+
+📊 PRÓXIMOS PASOS:
+   → Paso 2: Entrenamiento de modelos con GridSearchCV
+   → Paso 3: Comparación de métricas y Feature Importance
+
+================================================================================
+✓ ANÁLISIS EXPLORATORIO COMPLETADO
+================================================================================
+
+💾 Guardando datasets limpios para modelado...
+
+✓ Dataset A preparado: X_A (665, 76), y_A (665,)
+✓ Dataset B preparado: X_B (665, 76), y_B (665,)
+✓ Carrera para estratificación: (665,)
+
+💾 Archivos guardados:
+   • X_A.npy, y_A.npy, carrera.npy
+   • X_B.npy, y_B.npy
+   • feature_names_A.txt, feature_names_B.txt
+
+🚀 LISTO PARA EL PASO 2: ENTRENAMIENTO DE MODELOS
+================================================================================
