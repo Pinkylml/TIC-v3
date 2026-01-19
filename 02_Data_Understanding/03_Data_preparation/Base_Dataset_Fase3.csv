@@ -1,0 +1,666 @@
+Cohorte,S_Etica_Profesional,S_Responsabilidad_Soc,S_Gestion_Proyectos,S_Aprendizaje_Dig,S_Comunicacion_ESP,S_Comunicacion_ING,S_Liderazgo_Equipo,P_Gestion_Proyectos,P_Etica_Profesional,P_Responsabilidad_Soc,P_Aprendizaje_Dig,P_Comunicacion_ESP,P_Comunicacion_ING,P_Liderazgo_Equipo,Carrera_Raw,Trabaja_Status,Antiguedad_Raw,Texto_Relevantes_6_1,T,Evento,ID_Encuestado
+Julio,5.0,5.0,5.0,6.0,6.0,6.0,6.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Hidráulica,3,1,Julio_0
+Julio,4.0,5.0,4.0,6.0,4.0,4.0,4.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Control industrial, PLCs, instalaciones eléctricas y potencia.",3,1,Julio_1
+Julio,5.0,5.0,3.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Programación, aplicaciones móviles, estructura de datos y algoritmos, desarrollo web",7,0,Julio_2
+Julio,5.0,3.0,3.0,4.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,Robótica y todo lo relacionado a PLCs,7,0,Julio_3
+Julio,5.0,4.0,4.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Bases de datos, Desarrollo de aplicaciones web, Tecnologias de seguriodad, Desarrollo de IoT",7,0,Julio_4
+Julio,2.0,3.0,3.0,5.0,3.0,3.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,Electrónica,3,1,Julio_5
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 1 y 2 años,"programación,bases de datos, gestión de proyectos",0,1,Julio_6
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Diseño de Proyectos Estructurales,7,0,Julio_7
+Julio,6.0,5.0,3.0,6.0,3.0,3.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 6 meses y 1 año,Optimización de procesos,0,1,Julio_8
+Julio,3.0,4.0,3.0,5.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Gestión de procesos, calidad, logística y distribución, programación, proyectos, cadena de suministro",3,1,Julio_9
+Julio,4.0,3.0,4.0,5.0,3.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Ingeniería en sofware, Programación web, Datamining, Business intelligence",3,1,Julio_10
+Julio,5.0,3.0,3.0,6.0,4.0,4.0,3.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) MATEMÁTICA,Si,Menos de 6 meses,"Análisis en espacios de Banach y de Hilbert, Teoría de operadores lineales y acotados, Introducción a la teoría de Distribuciones",3,1,Julio_11
+Julio,5.0,5.0,4.0,5.0,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,"Electrónica analogica, Control y sistemas HMI, Instrumentacion",7,0,Julio_12
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,Programación Orientada a Objetos,7,0,Julio_13
+Julio,5.0,4.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,TCP/IP,7,0,Julio_14
+Julio,4.0,3.0,3.0,3.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Termodinámica, transferencia de calor, sistemas de vapor, control de sistemas mecánicos",7,0,Julio_15
+Julio,5.0,5.0,2.0,5.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Yacimientos minerales y metalogenia, Geología del petróleo, Vulcanologia, Geotecnia",7,0,Julio_16
+Julio,4.0,4.0,2.0,4.0,3.0,3.0,4.5,0.0,0.0,1.0,0.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Software Seguro, Interaccion Humano Computador, Juegos Interactivos, Aplicaciones Web, Aplicaciones Moviles, Sistemas Embebidos",0,1,Julio_17
+Julio,4.0,4.0,3.0,5.0,3.0,3.0,4.0,1.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Entre 6 meses y 1 año,Desarrollo de Aplicaciones Web y Móviles,0,1,Julio_18
+Julio,5.0,4.0,3.0,6.0,5.0,5.0,4.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ECONOMÍA,Si,Entre 6 meses y 1 año,Econometria,0,1,Julio_19
+Julio,3.0,3.0,3.0,5.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,Transferencia de calor,3,1,Julio_20
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Aplicaciones estructurales,7,0,Julio_21
+Julio,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Dinámica,7,0,Julio_22
+Julio,5.0,5.0,4.0,6.0,3.0,3.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Entre 6 meses y 1 año,"Programación PLC, instrumentaciones y redes industriales",0,1,Julio_23
+Julio,4.0,3.0,4.0,5.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Diseño de Proyectos Estructurales e Hidráulicos,7,0,Julio_24
+Julio,5.0,5.0,3.0,3.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Ensayos no Destructivos, ciencia de materiales, procesos de Manufactura, Soldadura",7,0,Julio_25
+Julio,5.0,5.0,4.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,"Telemática, redes ópticas, y programación",7,0,Julio_26
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,4.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,Arquitectura de computadores y redes,3,1,Julio_27
+Julio,6.0,4.0,6.0,6.0,6.0,6.0,4.0,1.0,1.0,0.0,1.0,1.0,1.0,0.5,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Entre 6 meses y 1 año,"Econometría, Macroeconomía, Microeconomía, Finanzas y proyectos, Estadistica multivariante, Tecnicas de desición estocastica, Teoria de juegos, Programación",0,1,Julio_28
+Julio,4.0,2.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Redes industriales, Automatización con PLCs, Álgebra, Robótica, Sistemas Microprocesados, Instrumentación Industrial",7,0,Julio_29
+Julio,5.0,5.0,3.0,5.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,Programación en general,7,0,Julio_30
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,"Programación orientada a objetos, Aplicaciones web 1 y 2, bases de datos.",0,1,Julio_31
+Julio,4.0,3.0,3.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Más de 2 años,"Redes, programación 1 y 2, ciberseguridad, ingeniería financiera,  mecánica",3,1,Julio_32
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,Ingeniería de Software,7,0,Julio_33
+Julio,5.0,4.0,5.0,3.0,4.0,4.0,5.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Aplicaciones web, usabilidad, calidad de software, auditoria, HCI",3,1,Julio_34
+Julio,3.0,3.0,1.0,6.0,1.0,1.0,1.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Más de 2 años,"Base de datos distribuidas y no distribuidas, programacion, algoritmos, modelados",3,1,Julio_35
+Julio,3.0,2.0,3.0,3.0,2.0,2.0,2.5,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Programación 1, 2 e Inteligencia Artificial",3,1,Julio_36
+Julio,6.0,5.0,3.0,5.0,5.0,5.0,4.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Programación 2, Fundamentos de bases de datos, Metodologías ágiles, Tecnologías de seguridad, Automatización de procesos",0,1,Julio_37
+Julio,5.0,4.0,4.0,5.0,4.0,4.0,5.5,0.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 1 y 2 años,"Logística,  cadena de suministro,  procesos productivos,",0,1,Julio_38
+Julio,5.0,4.0,5.0,6.0,3.0,3.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Aplicaciones Web, Aplicaciones Web Avanzadas, Desarrollo de Software Seguro, Bases de datos, Ingeniería de Software",0,1,Julio_39
+Julio,5.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Metrología, Transferencia de Calor Aplicada, Mecánica de Fluidos, Ciencia de Materiales, Dibujo Mecánico y CAD,  Ingeniería de Mantenimiento, Desgaste y Falla, Ventilación y Aire Acondicionado, Materiales Compuestos, Ensayos no Destructivos",7,0,Julio_40
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Programación, Tecnologías de la seguridad, Sistemas operativos",7,0,Julio_41
+Julio,1.0,1.0,4.0,5.0,5.0,5.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Más de 2 años,"Computación distribuida, Inteligencia artificial (solo con Henry Paz), POO",3,1,Julio_42
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Mecánica de suelos, Hidrología, Alcantarillado, Estructuras, Vías, Hidráulica",7,0,Julio_43
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,No,,Econometria,7,0,Julio_44
+Julio,6.0,5.0,5.0,6.0,4.0,4.0,4.5,1.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Entre 6 meses y 1 año,"Redes ópticas, Antenas, Sistemas Celulares, Microondas, Telemática",0,1,Julio_45
+Julio,3.0,4.0,4.0,5.0,3.0,3.0,3.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,"Econometria, Finanzas internacionales y Macroeconomía",3,1,Julio_46
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Diseño hidráulico y Diseño Estructural,7,0,Julio_47
+Julio,5.0,5.0,5.0,3.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,Mecanica de Fluidos,7,0,Julio_48
+Julio,5.0,5.0,5.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Ingeniería Sísmica, Diseño de proyectos estructurales",3,1,Julio_49
+Julio,4.0,3.0,4.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Sistemas operativos, desarrollo de aplicaciones web, arquitectura de computadores",7,0,Julio_50
+Julio,6.0,3.0,5.0,6.0,4.0,4.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Fundamentos de programación, POO. Base de Datos, Sistemas Operativos, Fundamentos de Ingeniería en Software, Metodologías Agiles, Aplicaciones Web, Verificación y Validación Software, HCI, Calidad de Software, Usabilidad y Accesibilidad, Desarrollo de Software Seguro, Estructuras de Datos y Algoritmos, Inteligencia de Negocios",0,1,Julio_51
+Julio,5.0,4.0,4.0,5.0,3.0,3.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"POO, ingeniería de software, aplicaciones web",0,1,Julio_52
+Julio,3.0,3.0,3.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ELECTRICIDAD,Si,Entre 1 y 2 años,"SEP, Instalaciones de medio voltaje, Distribución",0,1,Julio_53
+Julio,5.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"MCI, sistemas automotrices, dinámica, estática, transferencia de calor, diseño mecánico, termodinámica, ingeniería de soldadura, ingeniería financiera.",3,1,Julio_54
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,DESARROLLO EN JAVA,3,1,Julio_55
+Julio,4.0,3.0,3.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Redes, cloud, inteligencia artificial",7,0,Julio_56
+Julio,5.0,5.0,3.0,4.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGROINDUSTRIA,No,,"Termodinámica, Balance de masa, Balance de energía, Tecnología de Alimentos, Bioingeniería y Simulación de Procesos Agroindustriales",7,0,Julio_57
+Julio,5.0,3.0,1.0,6.0,2.0,2.0,5.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Hci, desarrollo web, estadística, inteligencia artificial, bases de datos 1 y 2",0,1,Julio_58
+Julio,5.0,3.0,3.0,3.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Tecnologías de la seguridad,7,0,Julio_59
+Julio,5.0,4.0,4.0,5.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Entre 6 meses y 1 año,"Aplicaciones computacionales, Mecánica de materiales, Hormigón, Estructuras de acero, Diseño de proyectos",0,1,Julio_60
+Julio,4.0,2.0,3.0,3.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,No,,"Econometria, finanzas, Economía Publica",7,0,Julio_61
+Julio,5.0,4.0,4.0,4.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Resistencia de materiales, cálculo, puentes, diseño de estructuras, sismica",7,0,Julio_62
+Julio,5.0,4.0,5.0,6.0,4.0,4.0,4.5,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) AGROINDUSTRIA,Si,Menos de 6 meses,"Ing de alimentos, análisis instrumental, bioingeniería, agroindustrias",3,1,Julio_63
+Julio,3.0,5.0,2.0,5.0,2.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Termodinámica, Gestión Empresarial, Transferencia de Calor",3,1,Julio_64
+Julio,5.0,5.0,4.0,5.0,3.0,3.0,5.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,(RRA20) ECONOMÍA,Si,Entre 6 meses y 1 año,Econometría,0,1,Julio_65
+Julio,4.0,3.0,3.0,4.0,4.0,4.0,4.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) GEOLOGÍA,Si,Menos de 6 meses,"Mapas geológicos, mineralogía óptica, geología estructural, geología del Ecuador.",3,1,Julio_66
+Julio,3.0,3.0,3.0,3.0,1.0,1.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"Protecciones , sistemas eléctricos de distribución , estabilidad de SEP",7,0,Julio_67
+Julio,6.0,3.0,3.0,6.0,5.0,5.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,(RRA20) COMPUTACIÓN,Si,Entre 6 meses y 1 año,"Inteligencia  Artificial, Bases de datos",0,1,Julio_68
+Julio,5.0,4.0,4.0,5.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,"Gestión de Sistemas Productivos, Sistemas CAD/CAM, Diseño del Trabajo y Layout, Evaluación Integrada de la Producción, Comportamiento Humano de las Organizaciones, Simulación Análisis y Diseño,  Programación de la Producción, Cadena de Suministro, Métodos Determinísticos para la Producción",7,0,Julio_69
+Julio,5.0,5.0,3.0,5.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Data mining, software, Cisco",7,0,Julio_70
+Julio,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"EIA, ORDENAMIENTO TERRITORIAL, LEGISLACIÓN AMBIENTAL, CALIDAD DEL AGUA, AIRE Y SUELO.",7,0,Julio_71
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,Programación,0,1,Julio_72
+Julio,4.0,4.0,6.0,6.0,6.0,6.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"Programación, Bases de Datos, Gestión de proyectos",3,1,Julio_73
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,"Instalacion de media y baja tension, control electromecanica, control hmi, electronica digital, refrigeracion, fluidos de trasmision de potencia",7,0,Julio_74
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Programacion, Programacion Orientada a Objetos, Bases de Datos, Gestion de Proyectos, Desarrollo de Aplicaciones Web.",7,0,Julio_75
+Julio,4.0,3.0,4.0,5.0,3.0,3.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,"Aplicaciones Web, Desarrollo de software seguro, Aplicaciones móviles, Ingeniería de software y requerimientos, Metodologías ágiles.",0,1,Julio_76
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Redes Industriales, SCADA, Instrumentación",7,0,Julio_77
+Julio,5.0,4.0,5.0,3.0,4.0,4.0,4.5,1.0,1.0,1.0,0.0,1.0,1.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,"Metodología de software, Bases de datos, desarrollo de aplicaciones moviles, diseño de interfaz, desarrollo de páginas web",0,1,Julio_78
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Laboratorio,7,0,Julio_79
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Tratamiento de aguas residuales, Hidráulica, Técnicas de potabilización",7,0,Julio_80
+Julio,6.0,5.0,6.0,6.0,4.0,4.0,5.5,1.0,1.0,1.0,1.0,0.0,0.0,1.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"Desarrollo Web, Programación, Algoritmos, Desarrollo Móvil, Base de Datos, Gestión de Proyectos, Inteligencia Artificial",3,1,Julio_81
+Julio,3.0,4.0,5.0,3.0,3.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 6 meses y 1 año,"Procesos, proyectos, cadena de suministro, optimización, planificación de la producción",0,1,Julio_82
+Julio,5.0,5.0,3.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Programación, TICs, Inteligencia Artificial, Desarrollo web",7,0,Julio_83
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,Si,Entre 6 meses y 1 año,"HIDRAULICA, TRATAMIENTO DE AGUA, TOPOGRAFIA",0,1,Julio_84
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Bases de Datos, Analisis de Datos, Dessarrollo de Aplicaciones Web",7,0,Julio_85
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Hormigón Vigas, Hormigón Columunas, Fiscalización, Aplicaciones Computacionales en Estructuras, Estructuras de Acero, Ofimática, Mecánica de Suelos, Hidráulica Aplicada, Diseño de Proyectos Hidráulicos, Diseño de Proyectos Estructurales.",7,0,Julio_86
+Julio,5.0,4.0,5.0,5.0,5.0,5.0,4.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Gestio,n de tecnologias de la informacion, Aplicaciones Web y Moviles, Redes de Computadores, Ingenieria de Software, comunicacion oral y escrita",3,1,Julio_87
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Cálculo Diferencial e Integral, Análisis Vectorial, EDP y Análisis de Fourier, Mecánica Cuántica I y II, Mecánica Estadística, Física Computacional y Física del Estado Sólido",7,0,Julio_88
+Julio,5.0,4.0,3.0,4.0,1.0,1.0,2.5,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Base de datos, programación, inteligencia artificial, aplicaciones web",3,1,Julio_89
+Julio,6.0,6.0,5.0,5.0,3.0,3.0,5.0,1.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Programación , aplicación web y móvil",3,1,Julio_90
+Julio,5.0,5.0,5.0,5.0,6.0,6.0,6.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,(RRA20) TELECOMUNICACIONES,Si,Entre 1 y 2 años,Comunicación digital,0,1,Julio_91
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,Si,Entre 1 y 2 años,Networking,0,1,Julio_92
+Julio,4.0,3.0,3.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,Programación,3,1,Julio_93
+Julio,5.0,3.0,4.0,6.0,3.0,3.0,4.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Entre 6 meses y 1 año,"Programación, Programación Avanzada, Aplicaciones Web y Móviles, Aplicaciones y Servicios para Internet, WAN, LAN, Almacenamiento de Datos, IoT",0,1,Julio_94
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,"Propagación y Antenas, Sistemas Celulares, Comunicación Digital, Telemática Básica",7,0,Julio_95
+Julio,4.0,4.0,3.0,6.0,5.0,5.0,3.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Centrales de Generación, calidad de energía, análisis de sistemas eléctricos de potencia, accionamiento de máquinas, control industrial",3,1,Julio_96
+Julio,4.0,3.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Materiales de construcción, Hormigon 1 y 2, Fiscalizacion, Construcciones civiles.",7,0,Julio_97
+Julio,4.0,3.0,3.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,No,,Aplicaciones web y moviles,7,0,Julio_98
+Julio,3.0,2.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"Sistemas Eléctricos de Distribución, Introducción a Protecciones Eléctricas, Calidad de Energía Eléctrica, Control Industrial",7,0,Julio_99
+Julio,6.0,3.0,5.0,6.0,3.0,3.0,4.5,1.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,Si,Entre 6 meses y 1 año,"Ofimática, Programación, Telemática, Inglés, Sistemas Embebidos, Fundamentos de Seguridad Telefonía IP, Diseño de Proyectos, Introducción al Diseño de Redes, Prácticas Laborales",0,1,Julio_100
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,Si,Menos de 6 meses,"Telematica, Microondas,Telefonía IP",3,1,Julio_101
+Julio,5.0,4.0,4.0,5.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,No,,"Econometria, finanzas, macroecomia",7,0,Julio_102
+Julio,5.0,4.0,3.0,3.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Gestión de residuos, diseño de plantas, contaminación del suelo, ecología, calidad del agua",7,0,Julio_103
+Julio,5.0,5.0,6.0,5.0,5.0,5.0,5.5,1.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,programación,0,1,Julio_104
+Julio,4.0,3.0,3.0,3.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Balance de Energía, Fenómenos de Transporte (Calor, Masa y Fluidos), Modelado y Control Automático",7,0,Julio_105
+Julio,6.0,5.0,4.0,5.0,5.0,5.0,5.0,0.0,1.0,0.0,0.0,1.0,1.0,0.5,(RRA20) AGROINDUSTRIA,Si,Entre 6 meses y 1 año,Tecnología de Alimentos,0,1,Julio_106
+Julio,2.0,3.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,"Programación, IoT, Sistemas Embebidos, Aplicaciones web y moviles, Bases de datos, Minería de datos",3,1,Julio_107
+Julio,6.0,5.0,4.0,5.0,4.0,4.0,6.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,(RRA20) INGENIERÍA AMBIENTAL,Si,Menos de 6 meses,"Gestión de residuos sólidos municipales, Gestión de Residuos peligrosos, balance de masa, seguridad y salud ocupacional",3,1,Julio_108
+Julio,5.0,4.0,3.0,4.0,3.0,3.0,4.5,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) ELECTROMECÁNICA,Si,Menos de 6 meses,"Sistemas de control y hmi, control electromecánico, instrumentación",3,1,Julio_109
+Julio,5.0,4.0,5.0,5.0,2.0,2.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Machine learning, programación orientada a objetos",7,0,Julio_110
+Julio,2.0,1.0,3.0,2.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Mecánica Clásica I, Mecánica Clásica II, Mecánica Cuántica, Complementos de Mecánica Cuántica, Programación Científica",7,0,Julio_111
+Julio,3.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Diseño de Trabajo y Layout, Cadena de Suministro, Gestión de Sistemas Productivos",3,1,Julio_112
+Julio,5.0,4.0,5.0,5.0,4.0,4.0,4.5,1.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Hormigon, Aceros",3,1,Julio_113
+Julio,2.0,2.0,3.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Seguridad, programación,  estadística",7,0,Julio_114
+Julio,3.0,4.0,5.0,6.0,4.0,4.0,3.5,1.0,0.0,1.0,1.0,1.0,1.0,0.0,(RRA20) TELECOMUNICACIONES,Si,Entre 1 y 2 años,"Sistemas celulares, sistemas inalámbricos, fundamentos de seguridad, LAN, WAN",0,1,Julio_115
+Julio,6.0,5.0,6.0,5.0,4.0,4.0,5.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,"Redes, comunicaciones ópticas",3,1,Julio_116
+Julio,6.0,5.0,5.0,6.0,5.0,5.0,6.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,"Econometría, Macroeconomía, Microeconomía, Finanzas.",3,1,Julio_117
+Julio,4.0,4.0,4.0,6.0,4.0,4.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,Si,Entre 6 meses y 1 año,"Econometría, Microeconomía, Macroeconomía",0,1,Julio_118
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Mecánica de materiales, Dinámica, Vibraciones, Transferencia de Calor",7,0,Julio_119
+Julio,5.0,5.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,No,,"Estadística, Econometria, finanzas, política económica, micro y macroeconómia",7,0,Julio_120
+Julio,6.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,"Econometria, Macroeconomía, Finanzas, Estadistica",3,1,Julio_121
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,Comunicaciones inalámbricas,7,0,Julio_122
+Julio,2.0,1.0,2.0,1.0,1.0,1.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,programacion y buisnes,7,0,Julio_123
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Construcciones Civiles, Fiscalización, Costos en la Construcción, Estructuras, Alcantarillado Urbano, Hidráulica Aplicada, Agua Potable, Diseño de Vías y Pavimentos, Mecánica de Suelos y Cimentaciones, Hormigón.",7,0,Julio_124
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Mecánica Lagrangiana y Hamiltoniana, Electrodinámica, Mecánica Cuántica.",7,0,Julio_125
+Julio,6.0,6.0,4.0,6.0,5.0,5.0,5.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Sistemas eléctricos de distribución, calidad energética, modelación de sistemas de potencia, Estudios de Estado Estacionario, Estabilidad, Confiabilidad, control industrial",3,1,Julio_126
+Julio,4.0,3.0,4.0,4.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,Física,7,0,Julio_127
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Construcciones civiles, costos de la construcción, fiscalización, diseño de proyectos estructurales, diseño de proyectos hidráulicos",3,1,Julio_128
+Julio,5.0,5.0,5.0,6.0,5.0,5.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,"Econometria, Macroeconomía, Microeconomía, Programación",3,1,Julio_129
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Balance de masa, balance de energía, química analítica, química general, química industrial",7,0,Julio_130
+Julio,6.0,6.0,5.0,6.0,5.0,5.0,6.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,Intranet,3,1,Julio_131
+Julio,5.0,5.0,4.0,5.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ADMINISTRACIÓN DE EMPRESAS,Si,Más de 2 años,Gestión de Proyectos,3,1,Julio_132
+Julio,5.0,1.0,4.0,5.0,2.0,2.0,3.5,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) ADMINISTRACIÓN DE EMPRESAS,Si,Más de 2 años,Procesos,3,1,Julio_133
+Julio,6.0,4.0,6.0,3.0,5.0,5.0,6.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,(RRA20) ADMINISTRACIÓN DE EMPRESAS,Si,Más de 2 años,Gestión de proyectos,3,1,Julio_134
+Julio,6.0,6.0,4.0,6.0,4.0,4.0,4.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Más de 2 años,"REDES, SISTEMAS OPERATIVOS, AUDITORIA INFORMATICA",3,1,Julio_135
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Costos, Fiscalización, Proyectos estructurales, Aplicaciones computacionales",3,1,Julio_136
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Menos de 6 meses,Ti,3,1,Julio_137
+Julio,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,Antenas,7,0,Julio_138
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA,No,,"Análisis en Espacios de Banach y de Hilbert, Teoría de Operadores Acotados (y No Acotados), Ecuaciones Diferenciales Parciales Elípticas, Topología, Introducción a la Teoría de Distribuciones.",7,0,Julio_139
+Julio,4.0,5.0,4.0,5.0,4.0,4.0,4.5,0.0,0.0,1.0,1.0,0.0,0.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Entre 1 y 2 años,"Sistemas Celulares, Redes ópticas",0,1,Julio_140
+Julio,2.0,2.0,3.0,2.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,Termodinámica,7,0,Julio_141
+Julio,4.0,4.0,4.0,5.0,2.0,2.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Diseño de proyectos estructurales, Estructuras de Acero, Costos en la construcción, Construcciones civiles, planificación y control de obra, Mecánica de suelos y cimentaciones y todas las anteriores a estas.",7,0,Julio_142
+Julio,5.0,4.0,4.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Evaluación de impacto ambiental, ordenamiento territorial, sig, tratamiento de agua, gestión de residuos sólidos y peligrosos",7,0,Julio_143
+Julio,4.0,3.0,3.0,3.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Gestión de residuos, depuración, legislación ambiental, ecotoxicología",7,0,Julio_144
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,"Programación Avanzada, Redes e Intranets, Aplicaciones Web y moviles, Hacking Ético, Bases de datos,",3,1,Julio_145
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,Celulares,7,0,Julio_146
+Julio,5.0,5.0,5.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Automatización PLCs, Instrumentación Industrial, Redes Industriales, Robotica",7,0,Julio_147
+Julio,3.0,3.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"CALIDAD DEL AGUA, SISTEMAS DE INFORMACIÓN GEOGRÁFICA, AGUA POTABLE Y ALCANTARILLADO, LEGISLACIÓN AMBIENTAL, DEPURACIÓN Y LABORATORIO, SEGURIDAD Y SALUD OCUPACIONAL",7,0,Julio_148
+Julio,6.0,5.0,4.0,5.0,4.0,4.0,4.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,"Econometría I,II y Aplicada, Microeconomía I y II, Macroeconomía I y II, Teoría de juegos, Muestreo, Análisis multivariante, Teoría monetaria, Fiananzas,  Ingeniería Financiera,  Probabilidad y  Estadística, Cálculo Integral,  Cálculo en varias  variables,  Investigación  Operativa",3,1,Julio_149
+Julio,1.0,1.0,4.0,5.0,4.0,4.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Introducción a la teoría de campos, Física de materiales, Introducción a los sistemas complejos, Mecánica Cuántica.",7,0,Julio_150
+Julio,6.0,3.0,4.0,6.0,5.0,5.0,6.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,"Estadística, programación, business intelligence, redes, fundamentos de matemáticas,",0,1,Julio_151
+Julio,6.0,5.0,4.0,6.0,3.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,Si,Entre 6 meses y 1 año,"Estadistica, Macroeconomía, Política económica, Teoría monetaria, Finanzas",0,1,Julio_152
+Julio,4.0,3.0,2.0,5.0,4.0,4.0,2.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Entre 6 meses y 1 año,"Telemática básica, telemática avanzada, programación avanzada y fundamentos de la seguridad.",0,1,Julio_153
+Julio,5.0,4.0,4.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Mecánica de fluidos, Balance de energía, Programación",7,0,Julio_154
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Programacion,analisis de datos ,calculo",7,0,Julio_155
+Julio,6.0,6.0,6.0,6.0,5.0,5.0,6.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,Desarrollo de Software,0,1,Julio_156
+Julio,5.0,6.0,3.0,5.0,1.0,1.0,2.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Costos, Fiscalización, Diseño de Proyectos Hidráulicos, Resistencia de Materiales, Hormigón, Losas, Diseño de Proyectos Estructurales, Financiera",3,1,Julio_157
+Julio,6.0,5.0,6.0,6.0,6.0,6.0,5.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL, DESARROLLO DE APLICACIONES WEB, TECNOLOGÍAS DE SEGURIDAD",3,1,Julio_158
+Julio,4.0,3.0,4.0,4.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Control Industrial, Automatización utilizando PLCs, Control Automático, Redes Industriales",7,0,Julio_159
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"QUIMICA INDUSTRIAL, QUIMICA ANALITICA, ANALISIS INSTRUMENTAL,  SEGURIDAD INDUSTRIAL Y SALUD OCUPACIONAL, MECANICA DE FLUIDOS I UNIDAD PROFESIONAL 1 25,63,00 A A  47 2022-AIQMD533TRANSFERENCIA DE CALO, TRANSFERENCIA DE MASA Y CALOR, FISICOQUÍMICA, OPERACIONES UNITARIAS, GESTION DE PROCESOS Y CALIDAD",7,0,Julio_160
+Julio,4.0,5.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Muestreo, Química, Proyecto hidráulicos, Hidráulica, Alcantarillado, Abastecimiento y distribución del agua, Tratamiento de aguas residuales",7,0,Julio_161
+Julio,6.0,4.0,5.0,6.0,5.0,5.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,FORMULACION Y EVALUACION DE PROYECTOS E INSTRUMENTACION INDUSTRIAL,3,1,Julio_162
+Julio,4.0,5.0,3.0,6.0,4.0,4.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.5,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Entre 6 meses y 1 año,Econometria,0,1,Julio_163
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Más de 2 años,"Ingeniería de software, Estadistica, Inteligencia Artificial, Aplicaciones Web, Aplicaciones Móviles",3,1,Julio_164
+Julio,4.0,5.0,3.0,6.0,4.0,4.0,3.5,0.0,1.0,1.0,1.0,1.0,1.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Entre 1 y 2 años,"Redes de Área Extendida, Aplicaciones Web y Móviles, Hacking Ético",0,1,Julio_165
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGROINDUSTRIA,No,,"Aseguramiento de la calidad, ingeniería en alimentos, microbiología, agrocomercio, diseño de plantas, análisis instrumental y de alimentos",7,0,Julio_166
+Julio,5.0,4.0,2.0,4.0,5.0,5.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Cálculo en una Variable, Probabilidad y Estadística, Programación 1, Programación 2, Fundamentos de bases de datos,  Ingeniería de Software, Diseño de software, Metodologías Ágiles,  Verificación y Validación de Software, Calidad de Software",0,1,Julio_167
+Julio,5.0,4.0,5.0,5.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Balance de masa, balance de energía",7,0,Julio_168
+Julio,4.0,3.0,2.0,4.0,2.0,2.0,2.5,0.0,1.0,0.0,1.0,1.0,1.0,0.0,(RRA20) ECONOMÍA,Si,Entre 6 meses y 1 año,"Estadistica,Econometria, Macroeconomia, Programacion",0,1,Julio_169
+Julio,5.0,4.0,4.0,6.0,3.0,3.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Estadística para la mejora de la calidad, Gestión de procesos y calidad, Programación de la producción, Evaluación integrada de la producción",3,1,Julio_170
+Julio,4.0,3.0,3.0,6.0,4.0,4.0,4.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,Inteligente artificial; matching learning,3,1,Julio_171
+Julio,3.0,4.0,3.0,4.0,3.0,3.0,3.5,0.0,0.0,1.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,Aplicaciones web y móviles,0,1,Julio_172
+Julio,4.0,3.0,2.0,5.0,2.0,2.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Programacion, sistemas complejos",7,0,Julio_173
+Julio,5.0,3.0,3.0,4.0,3.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Diseño de proyectos estructurales, diseño de proyectos hidráulicos, fiscalización en la construcción, costos en la construcción, topografía",3,1,Julio_174
+Julio,5.0,6.0,6.0,6.0,5.0,5.0,5.5,1.0,0.0,1.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,GESTION POR PROCESOS,3,1,Julio_175
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Suelos, hidráulicos",7,0,Julio_176
+Julio,4.0,2.0,3.0,6.0,2.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,Inteligencia artificial y aprendizaje autónomo ; Desarrollo web; Bases de datos,3,1,Julio_177
+Julio,4.0,4.0,4.0,4.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Programación, Tecnologías de la Seguridad, Cloud Computing",7,0,Julio_178
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,1.0,0.0,1.0,1.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"Programación, bases de datos",3,1,Julio_179
+Julio,1.0,1.0,3.0,5.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Todas las materias tienen un enfoque obsoleto, enfocado en el siglo pasado. Los itinerarios son los únicos interesantes pero deberían ampliarse",7,0,Julio_180
+Julio,5.0,5.0,4.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Gestión de procesos de calidad, Ingeniería financiera, Modelado y control automático y Mecánica de fluidos,.",7,0,Julio_181
+Julio,4.0,3.0,4.0,4.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Electrónica de Potencia, Sistemas de Control automático, PLCs, Sistemas SCADA",7,0,Julio_182
+Julio,4.0,5.0,5.0,5.0,4.0,4.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Entre 6 meses y 1 año,"Redes de computadoras, seguridad informática",0,1,Julio_183
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Transferencia de calor, energías renovables, métodos numéricos, termodinámica",7,0,Julio_184
+Julio,5.0,5.0,5.0,5.0,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,Gestión de sistemas productivos,7,0,Julio_185
+Julio,5.0,4.0,4.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Calidad de energía eléctrica, dinámica de máquinas eléctricas, distribución de redes eléctricas, alto voltaje, máquinas eléctricas, estabilidad de sistemas eléctricos de potencia, estudio en estado estacionario de Sep, protecciones eléctricas",3,1,Julio_186
+Julio,4.0,4.0,2.0,5.0,2.0,2.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Estructuras,3,1,Julio_187
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Entre 1 y 2 años,Energías Renovables,0,1,Julio_188
+Julio,6.0,5.0,6.0,6.0,4.0,4.0,4.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) ECONOMÍA,Si,Entre 6 meses y 1 año,"Estadística, muestreo, econometria 1, econometria 2, econometria aplicada, riesgos financieros, instrumentos y derivados, teoría de juegos, operativa, gestión organizacional, gestión de procesos,",0,1,Julio_189
+Julio,3.0,2.0,2.0,5.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Física experimental, Física de materiales, Programación científica, Mecánica Estadística",7,0,Julio_190
+Julio,3.0,5.0,3.0,5.0,2.0,2.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) PETRÓLEOS,No,,Yacimientos 2 y simulación,7,0,Julio_191
+Julio,5.0,5.0,3.0,6.0,3.0,3.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,Mantenimiento. Energías renovables. Diseño.,3,1,Julio_192
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,Electrodinámica,7,0,Julio_193
+Julio,3.0,2.0,4.0,5.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Instrumentación industrial, sistemas embebidos",7,0,Julio_194
+Julio,5.0,5.0,5.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Electrónica de potencia, conversores estáticos, control industrial, plcs, redes industriales, sistemas scada, máquinas eléctricas.",7,0,Julio_195
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Aplicaciones Web, Interacción Humano Computador, Construcción del Software, Programación I, Programación II, Desarollo de Software Seguro.",7,0,Julio_196
+Julio,4.0,4.0,3.0,3.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) PETRÓLEOS,No,,Termodinámica,7,0,Julio_197
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,Últimos semestres,7,0,Julio_198
+Julio,4.0,3.0,3.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,FISICA,No,,"Física nuclear y de partículas, estado sólido, Física de materiales, física computacional, mecánica cuántica",7,0,Julio_199
+Julio,5.0,3.0,5.0,5.0,4.0,4.0,4.0,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,Estructuras de datos y algoritmls,0,1,Julio_200
+Julio,4.0,2.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Diseño de estructuras, soldaduda",7,0,Julio_201
+Julio,5.0,4.0,4.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Gestión de Calidad, Desechos Peligrosos, Desechos Comunes, Estudios de Impacto Ambiental, Gestión de Recursos Naturales,  Legislación Ambiental.",7,0,Julio_202
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Entre 1 y 2 años,"Estadística, programación, riesgo financiero",0,1,Julio_203
+Julio,4.0,4.0,2.0,4.0,6.0,6.0,4.5,1.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"SISTEMAS ELECTRICOS DE DISTRIBUCION, CENTRALES DE GENERACION, MAQUINAS ELECTRICAS, ESTABILIDAD DE SEP, OPERACION DE SEP",3,1,Julio_204
+Julio,4.0,3.0,4.0,5.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Gestion de proyectos, PLC, Redes industriales",7,0,Julio_205
+Julio,5.0,5.0,6.0,6.0,5.0,5.0,5.5,1.0,0.0,0.0,1.0,0.0,0.0,0.5,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Entre 1 y 2 años,"Econometría, estadística, finanzas, proyectos.",0,1,Julio_206
+Julio,4.0,5.0,4.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Desarrollo web, Aplicaciones móviles, Programación",7,0,Julio_207
+Julio,5.0,4.0,4.0,4.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Programación Orientada a Objetos,7,0,Julio_208
+Julio,5.0,5.0,5.0,6.0,3.0,3.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,"Finanzas, Macroeconomia, Econometria",3,1,Julio_209
+Julio,4.0,4.0,4.0,5.0,2.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Suelos,3,1,Julio_210
+Julio,6.0,5.0,5.0,5.0,3.0,3.0,6.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,"Fundamentos de Bases de datos, ingeniería de software I y II, Aplicaciones web, aplicaciones móviles, Interacción Humano Computador, Data Mining y Machine Learning, Ingeniería Financiera, Gestión de Procesos y Calidad.",0,1,Julio_211
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,3.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,Si,Menos de 6 meses,Abastecimiento,3,1,Julio_212
+Julio,5.0,3.0,3.0,4.0,2.0,2.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Diseño de proyectos estructurales, diseño de proyectos hidráulicos,  fiscalización, costos.",7,0,Julio_213
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Desarrollo de aplicaciones web y movil,7,0,Julio_214
+Julio,4.0,3.0,3.0,4.0,3.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,Si,Menos de 6 meses,Campo,3,1,Julio_215
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,Todo relacionado con electricidad,7,0,Julio_216
+Julio,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Alcantarillado,7,0,Julio_217
+Julio,4.0,5.0,5.0,6.0,4.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,Ambiente,3,1,Julio_218
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Fisica,7,0,Julio_219
+Julio,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Ingeniería financiera, cálculo, transferencia de calor, dibujo mecánico y CAD.",7,0,Julio_220
+Julio,5.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Calidad del agua, diseño de plantas, Evaluación de Impacto Ambiental",7,0,Julio_221
+Julio,3.0,3.0,4.0,4.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"Dinámica de Máquinas,  Operación de SEP, Dispositivos Electrónicos,  Electrónica de Potencia",7,0,Julio_222
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Mecánica de Suelos Básica, Mecánica de Suelos Aplicada y Cimentaciones, Hormigón: Flexión, Corte y Torsión, Hormigón Columnas, Muros de Corte y Pórticos",7,0,Julio_223
+Julio,5.0,4.0,3.0,2.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Losas,7,0,Julio_224
+Julio,3.0,2.0,6.0,6.0,6.0,6.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"PROGRAMACIÓN II, ESTRUCTURA DE DATOS Y ALGORITMOS II, METODOLOGÍAS ÁGILES, CALIDAD DE SOFTWARE, INTELIGENCIA ARTIFICIAL Y APRENDIZAJE AUTOMÁTICO",3,1,Julio_225
+Julio,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Calidad del agua, suelo y aire",7,0,Julio_226
+Julio,6.0,5.0,4.0,6.0,4.0,4.0,3.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Entre 1 y 2 años,"Comunicaciones ópticas, Telemática, Antenas",0,1,Julio_227
+Julio,3.0,4.0,4.0,5.0,1.0,1.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Más de 2 años,Econometría,3,1,Julio_228
+Julio,2.0,1.0,2.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,"Redes, Desarrollo Web, Inteligencia Artificial, Machine Learning, Programación Orientada a Objetos, Matemáticas Discretas, Algoritmos y Estructuras de Datos, HCI, Bases de Datos, Auditoría.",0,1,Julio_229
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Tratamientos de Aguas Residuales, Potabilización, Alcantarillado",7,0,Julio_230
+Julio,6.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,"Ingenieríá de software II, Aplicaciones Web, Aplicaciones móviles, Bases de datos, Inteligencia Artificial",0,1,Julio_231
+Julio,4.0,2.0,4.0,6.0,4.0,4.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Refrigeración, trasnferencia de calor, termodinámica, mecánica de fluidos, elementos de maquinas",3,1,Julio_232
+Julio,6.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Diseño de proyectos estructurales, Diseño de proyectos hidráulicos, Alcantarillado, Topografía, Estructuras de Aceros, Costos en la construcción, Fiscalización en la construcción , Instalaciones hidrosanitarias, Mecánica de suelos I y II , Hormigón I y II y Losas de hormigón",3,1,Julio_233
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Programación II, Ingeniería de Software y de Requerimientos, Diseño de Software, Aplicaciones Web, Verificación y Validación de Software",7,0,Julio_234
+Julio,2.0,1.0,4.0,3.0,1.0,1.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Física Térmica, Física de Materiales",7,0,Julio_235
+Julio,5.0,3.0,3.0,3.0,3.0,3.0,3.5,0.0,1.0,0.0,0.0,0.0,0.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Entre 6 meses y 1 año,Proyectos estructurales,0,1,Julio_236
+Julio,4.0,4.0,4.0,4.0,3.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Fiscalización, Alcantarillado, Hidrosanitaria",3,1,Julio_237
+Julio,3.0,3.0,3.0,5.0,2.0,2.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,Desarrollo web,7,0,Julio_238
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Base de datos, aplicaciones web, interacción humano computador, aplicaciones móviles",7,0,Julio_239
+Julio,2.0,2.0,2.0,3.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,Si,Entre 6 meses y 1 año,Telemática,0,1,Julio_240
+Julio,4.0,4.0,2.0,5.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,No,,"Econometría, Estadística, Mercadotecnia",7,0,Julio_241
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Eficiencia energética, mecánica de fluidos",7,0,Julio_242
+Julio,5.0,5.0,5.0,3.0,3.0,3.0,5.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Más de 2 años,Análisis de datos,3,1,Julio_243
+Julio,6.0,5.0,4.0,6.0,5.0,5.0,4.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,"Bases de satos, Aplicaciones Web y Moviles, MINERÍA DE DATOS, Administración de Procesos y Servicios de TI",3,1,Julio_244
+Julio,3.0,3.0,3.0,2.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,No,,"IoT, sistemas inalambricos, redes e intranet, aplicaciones web y moviles, LAN, WAN, bases de datos, desarrollo de software.",7,0,Julio_245
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Aplicaciones Webs, Aplicaciones Móviles, Metodologías Ágiles, Ingenieria de Requerimientos",7,0,Julio_246
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Desarrollo de aplicaciones web - tecnologías de la seguridad,7,0,Julio_247
+Julio,2.0,3.0,2.0,5.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,No,,Todas han sido muy útiles,7,0,Julio_248
+Julio,2.0,1.0,1.0,3.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA CIVIL,Si,Entre 1 y 2 años,"Aplicaciones computacionales en estructura, diseño de proyectos estructurales, Hormigón armado, fiscalización.",0,1,Julio_249
+Julio,5.0,5.0,3.0,5.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) INGENIERÍA AMBIENTAL,Si,Menos de 6 meses,"Regularización ambiental, gestión integral de residuos peligrosos, calidad del agua, suelos, remediación de suelos, evaluación de impactos ambientales",3,1,Julio_250
+Julio,6.0,5.0,4.0,6.0,4.0,4.0,4.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Entre 1 y 2 años,"Econometria, finanzas",0,1,Julio_251
+Julio,5.0,5.0,3.0,5.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Agua potable y alcantarillado, Calidad del agua, Potabilización del agua, Diseño de plantas, Balance de masa y energía, Depuración, Residuos sólidos municipales, Ecotoxicología, Evaluación de impacto ambiental, Legislación ambiental",7,0,Julio_252
+Julio,4.0,3.0,4.0,5.0,3.0,3.0,3.5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 6 meses y 1 año,"Sistemas Cad/cam, Procesos Industriales,  Diseño de sistemas de producción, Gestión de procesos y calidad",0,1,Julio_253
+Julio,5.0,4.0,4.0,4.0,4.0,4.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,Dibujo mecánico y CAD,3,1,Julio_254
+Julio,4.0,5.0,4.0,4.0,5.0,5.0,4.5,0.0,0.0,1.0,0.0,1.0,1.0,0.5,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,"Redes, comunicación inalámbrica",3,1,Julio_255
+Julio,1.0,3.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,Gestión de Proyectos,3,1,Julio_256
+Julio,6.0,5.0,5.0,6.0,5.0,5.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,0.5,INGENIERIA EN CIENCIAS ECONOMICAS Y FINANCIERAS,Si,Menos de 6 meses,"Estadística , econometria, riesgo financiero",3,1,Julio_257
+Julio,6.0,3.0,5.0,6.0,5.0,5.0,3.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,"Transmisión Digital, Bases de Datos, Aplicaciones Web y Móviles, Almacenamiento y Procesamiento de Datos, Hacking Ético, LAN, WAN, Sistemas Inalámbricos, Administración de Procesos y Servicios de TI",3,1,Julio_258
+Julio,5.0,5.0,3.0,3.0,2.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Diseño estructural, diseño hidráulico",3,1,Julio_259
+Julio,6.0,6.0,5.0,6.0,5.0,5.0,5.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) ELECTRICIDAD,Si,Entre 6 meses y 1 año,"Sistemas eléctricos de distribución, calidad de energía, SEP",0,1,Julio_260
+Julio,3.0,3.0,4.0,4.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Transferencia de calor, Mecánica de Materiales",7,0,Julio_261
+Julio,6.0,3.0,3.0,5.0,4.0,4.0,4.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,"Hacking Etico, Administracion de procesos, Ingenieria Financiera, Redes e Intranets, Aplicaciones Web,  Gestion de procesos y calidad, seguridad en redes, sistemas IoT, enrutamiento, sistemas operativos",3,1,Julio_262
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Entre 1 y 2 años,"Aplicaciones Distrubuidas, Redes e Intranets, WLAN",0,1,Julio_263
+Julio,5.0,5.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Estadística aplicada , Gestión de proceso y Calidad, Administración de Operaciones, Gestión de Proyectos, Control estadístico de la Calidad, Logistica, Cadena de Suminstro",3,1,Julio_264
+Julio,6.0,6.0,5.0,6.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,Todas,3,1,Julio_265
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"Álgebra, Sistemas operativos, redes, desarrollo de aplicaciones web, desarrollo de aplicaciones móviles, análisis de datos, inteligencia artificial",3,1,Julio_266
+Julio,4.0,4.0,3.0,3.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Caracterización de agua, gestión ambiental, potabilización.",7,0,Julio_267
+Julio,3.0,3.0,3.0,5.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Sistemas eléctricos de potencia, centrales eléctricas, instalaciones eléctricas de medio voltaje y bajo voltaje, electrónica de potencia, calidad de energía,  Energías renovables, Control industrial, Máquinas Eléctricas",3,1,Julio_268
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Alto voltaje, Introducción a protecciones eléctricas, Calidad de energía eléctrica, Análisis de Sistemas Eléctricos de Potencia, Accionamientos de Máquinas, Sistemas eléctricos de distribución",3,1,Julio_269
+Julio,4.0,2.0,3.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Caracterización, potabilización, alcantarillado, tratamiento de aguas residuales, gestión ambiental, captación",7,0,Julio_270
+Julio,5.0,4.0,5.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Termodinámica Aplicada, Transferencia de calor Aplicada",7,0,Julio_271
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Ingeniería de la reacción, balance de masa y energía, transferencia de calor",7,0,Julio_272
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Diseño de estructuras metalicas,7,0,Julio_273
+Julio,4.0,4.0,3.0,5.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA,No,,"Análisis en los espacios de Banach y Hilbert, Teoría de Operadores Lineales y Acotados, Ecuaciones Diferenciales Parciales",7,0,Julio_274
+Julio,1.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Entre 6 meses y 1 año,Djdj,0,1,Julio_275
+Julio,4.0,4.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,Diseño de máquinas,7,0,Julio_276
+Julio,5.0,4.0,5.0,4.0,6.0,6.0,6.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,Redes de Área Local,3,1,Julio_277
+Julio,5.0,2.0,1.0,4.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Petrografía, geoquímica y yacimientos minerales.",7,0,Julio_278
+Julio,5.0,5.0,5.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Electrónica de Potencia, Control Automático",3,1,Julio_279
+Julio,4.0,4.0,2.0,4.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,Programación avanzada,7,0,Julio_280
+Julio,5.0,5.0,5.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Sistemas eléctricos de potencia, calidad de energía, sistemas eléctricos de distribución e Itinerarios avanzado y básico",3,1,Julio_281
+Julio,6.0,6.0,5.0,6.0,3.0,3.0,4.5,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Diseño de proyectos estructurales e hidráulicos. Mis materias de especialidad en hidráulica,3,1,Julio_282
+Julio,5.0,3.0,4.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,HCI,3,1,Julio_283
+Julio,6.0,5.0,5.0,6.0,5.0,5.0,6.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,HI,0,1,Julio_284
+Julio,6.0,5.0,5.0,6.0,6.0,6.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,(RRA20) INGENIERÍA QUÍMICA,Si,Entre 6 meses y 1 año,Química,0,1,Julio_285
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,",",7,0,Julio_286
+Julio,5.0,4.0,5.0,4.0,3.0,3.0,3.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,Circuitos,3,1,Julio_287
+Julio,5.0,5.0,5.0,5.0,3.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Diseño de plantas, Ingeniería de la reacción, Mecánica de Fluidos, Transferencia de Masa, Transferencia de Calor, Balance de Masa, Balance de Energía",7,0,Julio_288
+Julio,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,Yacimientos,7,0,Julio_289
+Julio,4.0,3.0,4.0,5.0,4.0,4.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Diseño de máquinas, Elementos de máquinas, termodinámica, mecánica de fluidos aplicada, desgaste y falla.",3,1,Julio_290
+Julio,4.0,4.0,3.0,3.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Petrografía, Yacimientos minerales, Exploración de Yacimientos, Geología del petróleo, Hidrogeología, Geotecnia",7,0,Julio_291
+Julio,3.0,3.0,3.0,5.0,3.0,3.0,4.5,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA QUÍMICA,Si,Entre 6 meses y 1 año,"Balance de Masa, Balance de Energía,  Diseño de Plantas, Termodinámica I",0,1,Julio_292
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,Si,Menos de 6 meses,"Electricidad, instalaciones de media y baja tención, electrónica digital y microprocesadores",3,1,Julio_293
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Tratamiento de Aguas Residuales y Sistemas de Alcantarillado,7,0,Julio_294
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,"Comunicaciones Inalámbricas, Sistemas de Telecomunicaciones, Redes de la Siguiente Generación",7,0,Julio_295
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,"Iot, Desarrollo de Software",0,1,Julio_296
+Julio,3.0,2.0,3.0,5.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"IA, Desarrollo web",0,1,Julio_297
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Metodologías ágiles, desarrollo Web y desarrollo mobile",7,0,Julio_298
+Julio,5.0,5.0,4.0,5.0,5.0,5.0,5.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Programación orientada a Objetos, Desarrollo Web, Metodologías Ágiles",0,1,Julio_299
+Julio,5.0,4.0,5.0,5.0,5.0,5.0,4.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Ingeniería de software, Metodologías ágiles, verificación y validación, aplicaciones web",3,1,Julio_300
+Julio,6.0,6.0,4.0,4.0,4.0,4.0,4.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,"Comunicaciones Inalambricas, Programación, TCP/IP, Comunicaciones Analógicas y Digitales, Propagación y Antenas, Sistemas Operativos, Redes de Computadoras, Comunicaciones Ópticas, Sistemas de Telecomunicaciones, Intranets, Leyes y Normativas de las Telecomunicaciones, Redes de Siguiente Generación, Seguridad en Redes",3,1,Julio_301
+Julio,2.0,3.0,3.0,5.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Entre 6 meses y 1 año,Inteligencia artificial y machine learning y todas las relacionadas a fundamentos de la programación y demas,0,1,Julio_302
+Julio,5.0,4.0,4.0,3.0,5.0,5.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Auditoria informática, HCI, Desarrollo Web, Aplicaciones Móviles",7,0,Julio_303
+Julio,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Aplicaciones Web, Bases de Datos, Ingeniería de Software, Gestión de Proyectos",7,0,Julio_304
+Julio,3.0,2.0,4.0,2.0,1.0,1.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Aplicaciones móviles y web, sistemas operativos, machine learning, BI, algebra, cálculo.",7,0,Julio_305
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA EMPRESARIAL,Si,Entre 6 meses y 1 año,"CONTABILIDAD, FINANZAS DE NEGOCIOS, GERENCIA DE PROCESOS, ANALISIS FIANCIERO",0,1,Julio_306
+Julio,5.0,4.0,5.0,5.0,5.0,5.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Entre 6 meses y 1 año,"Tecnologías de seguridad, AI, Bases de datos, programación",0,1,Julio_307
+Julio,4.0,3.0,5.0,6.0,4.0,4.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Entre 6 meses y 1 año,"SCADA,redes industriales.",0,1,Julio_308
+Julio,4.0,3.0,3.0,5.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Desarrollo web, desarrollo móvil, BI, Bases de datos",7,0,Julio_309
+Julio,5.0,4.0,5.0,5.0,3.0,3.0,4.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Inteligencia Artificial, Programación, Gestion de proyectos, sistemas embebidos,",3,1,Julio_310
+Julio,3.0,3.0,4.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,"Sistemas operativos, redes y telecomunicaciones",7,0,Julio_311
+Julio,5.0,6.0,5.0,5.0,6.0,6.0,5.5,0.0,0.0,1.0,0.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,HCI,0,1,Julio_312
+Julio,4.0,5.0,5.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Mecánica de fluidos, química general, termodinámica, diseño de plantas",3,1,Julio_313
+Julio,6.0,2.0,6.0,5.0,4.0,4.0,3.5,1.0,1.0,0.0,0.0,1.0,1.0,0.5,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Entre 1 y 2 años,"Redes industriales, Automatización con PLC, SCADA, Gestión de Proyectos, Control Industrial",0,1,Julio_314
+Julio,4.0,3.0,3.0,5.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Aplicaciones móviles, Aplicaciones web, Ingeniería de software y requerimientos",3,1,Julio_315
+Julio,5.0,5.0,5.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Administración,7,0,Julio_316
+Julio,4.0,3.0,4.0,5.0,5.0,5.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"Programacion, Bases de datos, Sistemas operativos, Gestion de proyectos de software, Programacion orientada a objetos",3,1,Julio_317
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,"Programación 1 y 2, Cálculo, Probabilidad y Estadística, Gestión de procesos, Bases de datos",0,1,Julio_318
+Julio,5.0,4.0,5.0,5.0,3.0,3.0,4.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Scada, Automatización con PLCs",3,1,Julio_319
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Hormigón Armado,7,0,Julio_320
+Julio,4.0,4.0,4.0,6.0,4.0,4.0,4.5,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Optimización y Análisis Numérico, estadística para mejora de la calidad, Análisis financiero y evaluación presupuestaria",3,1,Julio_321
+Julio,4.0,3.0,4.0,5.0,3.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Hidráulica, Costos de Obra, Fiscalización de Obra",3,1,Julio_322
+Julio,3.0,3.0,4.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Caracterización en agua, Tratamiento de agua residual",7,0,Julio_323
+Julio,4.0,3.0,2.0,6.0,3.0,3.0,2.5,1.0,0.0,0.0,1.0,1.0,1.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Desarrollo web, bases de datos, POO",3,1,Julio_324
+Julio,4.0,4.0,1.0,5.0,1.0,1.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Estadística, Gestión de Procesos",3,1,Julio_325
+Julio,5.0,4.0,4.0,5.0,4.0,4.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) ELECTROMECÁNICA,Si,Menos de 6 meses,Control y electricidad,3,1,Julio_326
+Julio,2.0,3.0,4.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Petrografia, Mineralogía, Geotecnia.",7,0,Julio_327
+Julio,5.0,4.0,3.0,6.0,2.0,2.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,Desarrollo de software,3,1,Julio_328
+Julio,4.0,5.0,3.0,5.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Programacion,7,0,Julio_329
+Julio,4.0,4.0,3.0,4.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,"Redes inalámbricas, sistemas de telecomunicaciones, cableado estructurado, redes de computadoras, programación",7,0,Julio_330
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Dinámica, Diseño de maquinas",7,0,Julio_331
+Julio,4.0,4.0,5.0,5.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Desarrollo de aplicaciones web,7,0,Julio_332
+Julio,3.0,3.0,3.0,4.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ADMINISTRACIÓN DE EMPRESAS,No,,"Estadística, Contabilidad, Administración, Economía, Ingeniería Financiera, Procesos, Derecho, Comportamiento Organizacional",7,0,Julio_333
+Julio,5.0,4.0,5.0,5.0,4.0,4.0,4.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Verificación y validación de software, Programación orientada a objetos, Aplicaciones Web, HCI, Metodologías Ágiles",3,1,Julio_334
+Julio,4.0,4.0,3.0,5.0,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Refrigeracion Industrial, Diseño de Máquinas, Soldadura",7,0,Julio_335
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Transferencia de calor I y II, Mecánica de fluidos",3,1,Julio_336
+Julio,3.0,3.0,5.0,6.0,3.0,3.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Sistemas Operativos, Redes, Estructuras de datos, Ingeniería de software, Inteligencia Artificial, Tecnologías de la seguridad, Cloud Computing",3,1,Julio_337
+Julio,6.0,5.0,5.0,6.0,4.0,4.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,"HCI,APLICACIONES WEB, APLICACIONES WEB AVANZADAS, METODOLOGIAS AGILES, PROGRAMACIONI, PROGRAMACION II",0,1,Julio_338
+Julio,6.0,4.0,4.0,4.0,3.0,3.0,4.5,0.0,1.0,0.0,0.0,0.0,0.0,0.5,(RRA20) ADMINISTRACIÓN DE EMPRESAS,Si,Más de 2 años,"Contabilidad, Finanzas",3,1,Julio_339
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,"Control electromecánico, control y sistemas hmi, energías renovables, dibujo mecánico, instrumentación",7,0,Julio_340
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) PETRÓLEOS,No,,"Perforación,  completación, sistemas de producción",7,0,Julio_341
+Julio,6.0,5.0,6.0,5.0,5.0,5.0,4.5,1.0,1.0,1.0,1.0,0.0,0.0,0.5,INGENIERIA MECANICA,Si,Más de 2 años,"Mecánica de Materiales, Temodinamica, Mecánica de Fluidos",3,1,Julio_342
+Julio,5.0,4.0,4.0,5.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Estructuras de acero, Mecánica de Materiales, Mecánica de Fluidos Aplicada, Control de sistemas mecánicos, CAD y CAM, Ingeniería de Mantenimiento",7,0,Julio_343
+Julio,4.0,4.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Ingeniería financiera, Sistemas embebidos, Metodologías ágiles, Gestión de proyectos de software, Desarrollo de software seguro, Ingeniería de software y requerimientos",7,0,Julio_344
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Desarrollo de Software Seguro, Verificación y Validación de Software, Automatización de Procesos, Interacción Humano Computador, Tecnologías de Seguridad, Bases de Datos",7,0,Julio_345
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Más de 2 años,"Programación 1 y 2, aplicaciones móviles, aplicaciones web, calidad de software, arquitectura de computadores, arquitectura de software, ingeniería de software",3,1,Julio_346
+Julio,6.0,5.0,4.0,6.0,5.0,5.0,5.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Mecánica de fluidos, Diseño de Plantas, Modelado y Automatización",3,1,Julio_347
+Julio,3.0,2.0,4.0,3.0,3.0,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Aceros, Maquinas y Mecánismos, Diseño de proyectos hidráulicos",7,0,Julio_348
+Julio,6.0,2.0,6.0,6.0,4.0,4.0,5.5,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Más de 2 años,"TCP IP, Ingeniería de Software 1 y 2, Calidad de Software",3,1,Julio_349
+Julio,5.0,4.0,5.0,6.0,4.0,4.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Mecánica de Materials, Elementos de Máquinas, Dibujo Mecánico y CAD.",0,1,Julio_350
+Julio,6.0,6.0,1.0,6.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Programación, termodinámica, Transferencia de calor, mecánica de fluidos",3,1,Julio_351
+Julio,5.0,5.0,4.0,3.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,"Diseño de software, programación, bases de datos, calidad",0,1,Julio_352
+Julio,3.0,4.0,5.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA GEOLOGICA,No,,"Geotecnia, Microtectónica, Mecánica de Fluidos, Registros Geológicos",7,0,Julio_353
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Diseño de proyectos estructurales, Diseño de proyectos hidráulicos, Ingeniería Sísmica",7,0,Julio_354
+Julio,4.0,4.0,5.0,4.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Hormigón,7,0,Julio_355
+Julio,6.0,6.0,5.0,6.0,6.0,6.0,5.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA AMBIENTAL,Si,Menos de 6 meses,"Calidad del Agua, diseño de plantas, Evaluación de impacto ambiental, modelacion del agua, ordenamiento territorial, legislación ambiental, depuración, potabilización, energías renovables",3,1,Julio_356
+Julio,5.0,3.0,4.0,3.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Estática, Mecánica de materiales, Dinámica, Soldadura, Programación",0,1,Julio_357
+Julio,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Diseño de software, Estadística, IA, Aplicaciones Web Avanzadas",7,0,Julio_358
+Julio,5.0,5.0,3.0,5.0,3.0,3.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Procesos industriales, gestión de sistemas productivos",3,1,Julio_359
+Julio,5.0,4.0,3.0,4.0,4.0,4.0,3.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA AMBIENTAL,Si,Menos de 6 meses,"Gestión de Residuos Municipales, Gestión de Residuos Peligrosos, Evaluación de Impactos Ambientales, Diseño de Plantas, Legislación Ambiental, Economía Ambiental",3,1,Julio_360
+Julio,3.0,2.0,2.0,3.0,3.0,3.0,3.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,Transferencia de Calor,0,1,Julio_361
+Julio,5.0,1.0,3.0,4.0,1.0,1.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Aplicaciones computacionales en estructuras, aplicaciones computacionales en hidráulica, estructuras de acero, diseño de proyectos estructurales, diseño de proyectos hidráulicos, alcantarillad, estructuras planas.",7,0,Julio_362
+Julio,3.0,3.0,3.0,5.0,3.0,3.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Inteligencia Artificial, Datos",3,1,Julio_363
+Julio,4.0,4.0,4.0,5.0,3.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,Protecciones eléctricas,3,1,Julio_364
+Julio,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,Química,7,0,Julio_365
+Julio,5.0,5.0,4.0,6.0,5.0,5.0,5.0,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Teoria de Máquinas, Estructuras de Acero, Transferencia de Calor, Desgaste y Falla",3,1,Julio_366
+Julio,4.0,5.0,2.0,3.0,2.0,2.0,2.5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Mantenimiento, termodinámica, sistemas de vapor, sistemas de aire acondicionado, refrigeración, electricidad, control, diseño mécanico.",0,1,Julio_367
+Julio,6.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) ADMINISTRACIÓN DE EMPRESAS,Si,Más de 2 años,"Gestion de procesos, Gestion de talento humano",3,1,Julio_368
+Julio,2.0,1.0,2.0,2.0,3.0,3.0,2.5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,Mecánica de fluidos,3,1,Julio_369
+Julio,5.0,5.0,3.0,4.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Hidráulica, Diseño de hormigón, Aceros, Construcciones civiles, Fiscalización y Costos en la construcción.",3,1,Julio_370
+Julio,4.0,4.0,3.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Paquetes Computacionales para la Ingenieria Estrcutural , Diseño Hormigon Armado ,Maquinarias y -Equipos hidraulicos",7,0,Julio_371
+Julio,2.0,2.0,2.0,4.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Gestion organizacional, formulación de proyectos, ingeniería financiera",0,1,Julio_372
+Julio,3.0,3.0,4.0,2.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,INGENIERIA EMPRESARIAL,No,,,7,0,Julio_373
+Julio,6.0,5.0,6.0,5.0,5.0,5.0,4.5,1.0,1.0,0.0,0.0,1.0,1.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,HORMIGON,3,1,Julio_374
+Julio,5.0,5.0,4.0,5.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Diseño estructural e hidráulico, costos, fiscalización",7,0,Julio_375
+Julio,5.0,6.0,5.0,6.0,6.0,6.0,6.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Web, IA, Software, Redes, Gestión de procesos",3,1,Julio_376
+Julio,5.0,4.0,4.0,4.0,5.0,5.0,4.0,0.0,1.0,0.0,0.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Programación I y II, INGENIERÍA DE SOFTWARE Y DE REQUERIMIENTOS, DISEÑO DE SOFTWARE, APLICACIONES WEB, METODOLOGÍAS ÁGILES",0,1,Julio_377
+Julio,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,Machine Learning,7,0,Julio_378
+Julio,5.0,5.0,4.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"Calidad de Energia, Sistemas Eléctricos de Distribución,  CENTRALES DE  GENERACIÓN  ELÉCTRICA,  INTRODUCCIÓN A  PROTECCIONES  ELÉCTRICAS,  PROTECCIONES  ELÉCTRICAS, INSTALACIONES  ELÉCTRICAS DE  MEDIO VOLTAJE.",7,0,Julio_379
+Diciembre,5.0,5.0,5.0,5.0,5.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Hidráulica Subterranes, Mecanica de Suelos, Materiales de la contrucción y hormigones, Costos de la Construcción, Diseño hidráulico, Planificación de Recuros Hídricos",3,1,Diciembre_380
+Diciembre,5.0,4.0,4.0,4.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,Aplicaciones Web y Bases de Datos,7,0,Diciembre_381
+Diciembre,6.0,4.0,4.0,5.0,4.0,4.0,4.5,0.0,1.0,1.0,0.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,Interaccion Humano Computador,0,1,Diciembre_382
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,Itinerario de redes inteligentes,7,0,Diciembre_383
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Mecánica de Suelos,3,1,Diciembre_384
+Diciembre,5.0,5.0,5.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Seguridad Informática, Auditoría, Tecnologías de Seguridad, Redes, Desarrollo Web y Mobile",7,0,Diciembre_385
+Diciembre,5.0,4.0,5.0,6.0,4.0,3.0,4.5,1.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Entre 6 meses y 1 año,"Páginas web, inteligencia artificial, ingeniería en software",0,1,Diciembre_386
+Diciembre,6.0,6.0,4.0,5.0,5.0,4.0,5.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Más de 2 años,Comunicaciones inalámbricas,3,1,Diciembre_387
+Diciembre,5.0,4.0,5.0,6.0,4.0,4.0,5.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Ingeniería Financiera, Electrotecnia, Protecciones Electricas,  Seguridad Industrial, Calidad de Energía Eléctrica, Control Industrial,  Sistemas Eléctricos de Distribución, Dinámica de Máquinas Eléctricas, Instalaciones Eléctricas de Medio Voltaje,  Electrónica de Potencia,  Sistemas Eléctricos de Potencia",3,1,Diciembre_388
+Diciembre,5.0,5.0,5.0,5.0,4.0,4.0,5.5,1.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) MATEMÁTICA APLICADA,Si,Entre 1 y 2 años,"Control de calidad, análisis multivariate, econometría, series temporales modelos de riesgo, matemática actuarial, estadística, TIC, probabilidad",0,1,Diciembre_389
+Diciembre,5.0,5.0,4.0,3.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Gestión de Recursos Hídricos, Alcantarillado Urbano, Hormigón flexión corte y torsión, Hidraulica Aplicada,  Aplicaciones computación al es en estructuras",7,0,Diciembre_390
+Diciembre,4.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,"Comunicaciones ópticas, telemática básica y avanzada, antenas y RF",7,0,Diciembre_391
+Diciembre,5.0,5.0,4.0,5.0,5.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Mecánica de fluidos aplicada, diseño de máquinas, Dibujo mecánico CAD, Mecánica de Materiales.",7,0,Diciembre_392
+Diciembre,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Desarrollo web,7,0,Diciembre_393
+Diciembre,3.0,4.0,4.0,4.0,3.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,"Sistemas de Transmisión, Propagación y Antenas, Celulares, Telemática, Comunicación Digital, Cableado Estructurado.",7,0,Diciembre_394
+Diciembre,5.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Estatica, Dinámica,  Termodinámica, Transferencia de calor, Mecánica de Materiales y Ciencia de Materiales.",7,0,Diciembre_395
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Instrumentación, Mandos automáticos, sistemas embebidos",7,0,Diciembre_396
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Balance de energía, masa. Transferencia de masa, calor y fluidos",7,0,Diciembre_397
+Diciembre,4.0,4.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Control industrial, seguridad industrial, formulación de proyectos",3,1,Diciembre_398
+Diciembre,6.0,4.0,3.0,6.0,5.0,3.0,5.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,Inteligencia Artificial,0,1,Diciembre_399
+Diciembre,4.0,2.0,2.0,5.0,4.0,4.0,2.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) MATEMÁTICA APLICADA,Si,Entre 6 meses y 1 año,"Econometría, Programación Entera, Modelos de Riesgo",0,1,Diciembre_400
+Diciembre,5.0,5.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Caracterización del agua, Gestión Ambiental, Sistemas de Alcantarillado, Hidráulica, Topografía, Abastecimiento del agua",7,0,Diciembre_401
+Diciembre,5.0,4.0,5.0,3.0,5.0,6.0,3.5,0.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Química analítica, instrumental",3,1,Diciembre_402
+Diciembre,3.0,3.0,2.0,2.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Aplicaciones computacionales de estructuras e hidráulica,7,0,Diciembre_403
+Diciembre,3.0,4.0,3.0,4.0,5.0,5.0,3.5,1.0,0.0,1.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Todas,3,1,Diciembre_404
+Diciembre,5.0,5.0,5.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Geología de campo 1, Geología de campo 2, Geología del Ecuador, Petrografía, cuecas sedimenatarias, geología del petróleo.",7,0,Diciembre_405
+Diciembre,5.0,5.0,5.0,5.0,3.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"programación orientada a objetos,TICS",7,0,Diciembre_406
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Arquitectura de computadoras, desarrollo web",7,0,Diciembre_407
+Diciembre,4.0,4.0,4.0,4.0,5.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,Refrigeración,7,0,Diciembre_408
+Diciembre,5.0,5.0,5.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Diseño de Proyectos Hidráulicos,7,0,Diciembre_409
+Diciembre,6.0,5.0,5.0,6.0,4.0,4.0,5.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,"Diseño de interfaz, Desarrollo de aplicaciones y programación",0,1,Diciembre_410
+Diciembre,5.0,5.0,4.0,6.0,5.0,4.0,5.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Desarrollo web, Fundamentos de programación, Programación orientada a objetos, u",3,1,Diciembre_411
+Diciembre,6.0,6.0,6.0,6.0,6.0,4.0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"CALCULO VECTORIAL, ELECTRONICA DE POTENCIA, CONTROL DE MAQUINAS ELECTRICAS",3,1,Diciembre_412
+Diciembre,5.0,5.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Teoría de máquinas, Diseño de máquinas, Elementos mecánicos, Ciencia de materiales, Desgaste y falla, Mantenimiento, Termodinámica, Transferencia de calor",7,0,Diciembre_413
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,"Programación, Bases de datos",0,1,Diciembre_414
+Diciembre,3.0,3.0,4.0,4.0,4.0,4.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Diseño de software, tecnologías de seguridad, bases de datos",3,1,Diciembre_415
+Diciembre,4.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,Mantenimiento,7,0,Diciembre_416
+Diciembre,6.0,6.0,5.0,6.0,5.0,5.0,5.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Entre 1 y 2 años,"Estructuras planas,Ingenieria Sismica",0,1,Diciembre_417
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,"Estadística, cadena de Suministro, logística, layout, cad cam, procesos industriales, todas las materias relacionadas a proyectos",7,0,Diciembre_418
+Diciembre,5.0,5.0,3.0,5.0,4.0,5.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,Programación orientada a objetos,3,1,Diciembre_419
+Diciembre,3.0,3.0,3.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Aplicaciones Computacionales en Estructuras, losas de hormigón, diseño de proyectos estructurales",7,0,Diciembre_420
+Diciembre,5.0,5.0,3.0,3.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,Seguridad de la red,7,0,Diciembre_421
+Diciembre,3.0,5.0,5.0,6.0,6.0,5.0,4.5,1.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Gestion organizacional, Dibujo mecanico y CAD, Gestion de procesos y calidad",0,1,Diciembre_422
+Diciembre,6.0,2.0,2.0,3.0,6.0,6.0,3.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ECONOMÍA,Si,Entre 1 y 2 años,"Estadística, econometria",0,1,Diciembre_423
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,Redes,7,0,Diciembre_424
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Tratamiento de aguas residuales, tecnicas de potabilización, sistemas de alcantarillado",7,0,Diciembre_425
+Diciembre,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,Diseño de máquinas,7,0,Diciembre_426
+Diciembre,4.0,5.0,4.0,5.0,4.0,4.0,6.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,(RRA20) ELECTRICIDAD,Si,Entre 6 meses y 1 año,"INSTALACIONES ELECTRICAS Y DE COMUNICACIÓN, CONSTRUCCIÓN DE REDES ELÉCTRICAS",0,1,Diciembre_427
+Diciembre,3.0,3.0,4.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Calidad de Agua, Calidad del suelo, Calidad de aire, Legislación Ambiental, Evaluacion de impacto ambiental",7,0,Diciembre_428
+Diciembre,6.0,6.0,5.0,4.0,4.0,4.0,5.5,1.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA AMBIENTAL,Si,Menos de 6 meses,"Diseño de plantas, depuración, estudio de impacto ambiental",3,1,Diciembre_429
+Diciembre,5.0,4.0,3.0,3.0,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Legislación Ambiental, Gestión de desechos peligrosos, Calidad de agua, Agua Potable y Saneamiento",7,0,Diciembre_430
+Diciembre,5.0,5.0,5.0,5.0,5.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,No,,"Matemática Actuarial, Modelos de Riesgo, Series Temporales",7,0,Diciembre_431
+Diciembre,3.0,4.0,5.0,5.0,4.0,4.0,2.5,1.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Mecánica de fluidos, diseño de sistemas energéticos, mecánica de materiales",0,1,Diciembre_432
+Diciembre,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,"Sistemas CAD-CAM, Cadena de suministro, Procesos Industriales",7,0,Diciembre_433
+Diciembre,5.0,5.0,5.0,5.0,2.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,"Tcp/IP, redes, seguridad, telecomunicaciones",7,0,Diciembre_434
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,Tcp / ip,7,0,Diciembre_435
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Dinámica, Diseño Mecánico y CAD.",3,1,Diciembre_436
+Diciembre,5.0,5.0,4.0,5.0,6.0,6.0,6.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Transferencia de Calor 1 y 2, Fisicoquímica, Análisis Instrumental, Diseño de Plantas.",3,1,Diciembre_437
+Diciembre,4.0,4.0,3.0,3.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Geometría, Física, Programación, Hidráulica Básica,  Hidráulica Avanzada, Hidráulica de Canales y Tuberías, Diseño Hidráulico, Estructuras planas, Hormigón Armado I y II, Diseño estructural, Diseño de Proyectos Estructurales,  Resistencia de materiales e Hidrología Básica.",7,0,Diciembre_438
+Diciembre,6.0,6.0,5.0,5.0,4.0,4.0,4.5,1.0,1.0,1.0,0.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Tecnologías de la información, Seguridad informática, Aplicaciones web, Inteligencia artificial, Arquitectura de computadoras",3,1,Diciembre_439
+Diciembre,2.0,4.0,4.0,4.0,3.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Cloud Computing, Recuperación de información",3,1,Diciembre_440
+Diciembre,6.0,6.0,5.0,6.0,4.0,4.0,6.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,(RRA20) INGENIERÍA CIVIL,Si,Entre 6 meses y 1 año,"Hormigón de vigas, Hormigón de columnas, Aplicaciones computacionales, Ingeniería Sísmica, Fiscalización,  Diseño de Proyectos estructurales, etc",0,1,Diciembre_441
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,Programación de producción,7,0,Diciembre_442
+Diciembre,2.0,2.0,2.0,4.0,2.0,4.0,2.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,Edo,0,1,Diciembre_443
+Diciembre,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,Mecanica,3,1,Diciembre_444
+Diciembre,5.0,5.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Mecánica de fluidos, balance de masa, transferencia de calor, ingeniería de la reación 1",7,0,Diciembre_445
+Diciembre,5.0,5.0,5.0,5.0,5.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,No,,"Lan, wlan, enrutamiento, bdd, programación orientada a objetos, sistemas operativos, seguridad.",7,0,Diciembre_446
+Diciembre,4.0,4.0,4.0,4.0,3.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Hidráulica,7,0,Diciembre_447
+Diciembre,6.0,6.0,4.0,5.0,3.0,3.0,4.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA AMBIENTAL,Si,Entre 6 meses y 1 año,"Legislación ambiental, calidad del agua",0,1,Diciembre_448
+Diciembre,3.0,4.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Inteligencia artificial , cloud computing, recuperación información, gestión de procesos",7,0,Diciembre_449
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,Estabilidad de Sistemas Eléctricos de Potencia y Análisis de Datos,7,0,Diciembre_450
+Diciembre,4.0,3.0,3.0,4.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"CAD, Desgaste y Falla",3,1,Diciembre_451
+Diciembre,4.0,2.0,4.0,4.0,4.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,.,3,1,Diciembre_452
+Diciembre,3.0,3.0,3.0,4.0,5.0,4.0,4.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Entre 1 y 2 años,"Sistemas microprocesados, Electrónica de Potencia , Control embebido, Instrumentación Biomedica, Circuitos electronicos",0,1,Diciembre_453
+Diciembre,6.0,4.0,4.0,5.0,6.0,4.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) MATEMÁTICA APLICADA,Si,Menos de 6 meses,"Series temporales, estructura de datos, análisis multivariante",3,1,Diciembre_454
+Diciembre,5.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,No,,"Econmetría I, Econometría  II, Econometría Aplicada, finanzas internacionales",7,0,Diciembre_455
+Diciembre,5.0,4.0,3.0,2.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,"Gestión de sistemas productivos, estadística para la producción,  simulación y análisis numérico ,  gestión de proyectos,  procesos industriales,",7,0,Diciembre_456
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Mecánica de Fluidos, Diseño de Plantas",7,0,Diciembre_457
+Diciembre,4.0,4.0,4.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Ingeniería financiera, gestión de proyectos, mantenimiento, eficiencia energética",7,0,Diciembre_458
+Diciembre,4.0,4.0,3.0,3.0,3.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Mecánica de materiales, termodinamica aplicada, CAD, Elementos numericos, electromagnetismo, transferencia de calor, metrologia.",7,0,Diciembre_459
+Diciembre,5.0,4.0,4.0,5.0,4.0,3.0,4.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Entre 1 y 2 años,"APLICACIONES COMPUTACIONALES EN HIDRÁULICA, APLICACIONES COMPUTACIONALES EN ESTRUCTURAS, HORMGIÓN: FLEXIÓN, CORTE Y TORSIÓN, HIDRÁULICA APLICADA, DISEÑO HIDRÁULICO",0,1,Diciembre_460
+Diciembre,4.0,4.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Sismica,estructuras Planas, Diseño de Proyectos Estructurales,Costos,Fiscalización",7,0,Diciembre_461
+Diciembre,2.0,2.0,2.0,3.0,4.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,Si,Entre 6 meses y 1 año,"Simulación, Series Temporales, Modelos de Riesgo",0,1,Diciembre_462
+Diciembre,6.0,6.0,4.0,6.0,5.0,5.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,"Programacion, Desarrollo de aplicaciones web, aplicaciones distribuidas, diseno de interfaces",0,1,Diciembre_463
+Diciembre,4.0,3.0,4.0,5.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Tecnologías  de seguridad, Aplicaciones distribuidas, Desarrollo de aplicaciones web, Fundamentos de inteligencia artificial",7,0,Diciembre_464
+Diciembre,5.0,4.0,2.0,3.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Evaluación de impactos ambientales, Calidad del agua, Legislación ambiental, SIG, Calidad y control de la contaminación del aire",7,0,Diciembre_465
+Diciembre,5.0,5.0,5.0,5.0,5.0,6.0,5.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 6 meses y 1 año,"Gestión de proyectos, financiera",0,1,Diciembre_466
+Diciembre,6.0,4.0,5.0,6.0,4.0,3.0,4.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"INTELIGENCIA ARTIFICIAL, Gestión de proyectos",3,1,Diciembre_467
+Diciembre,4.0,5.0,5.0,3.0,4.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"SEP, Calidad de energía, Instalaciones eléctricas",7,0,Diciembre_468
+Diciembre,3.0,3.0,3.0,3.0,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Dibujo técnico y CAD,  Comunicacion profesional, Procesos de Manufactura, Estructuras Metálicas, Ciencia de materiales Aplicada, Termodinámica, Gestión de Proyectos, Soldadura.",7,0,Diciembre_469
+Diciembre,4.0,4.0,3.0,3.0,3.0,3.0,3.5,0.0,1.0,1.0,0.0,0.0,0.0,0.5,(RRA20) MECÁNICA,Si,Entre 1 y 2 años,"Ciencia de materiales, termodinamica, transferencia de calor, programación",0,1,Diciembre_470
+Diciembre,3.0,3.0,3.0,4.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Control de sistemas mecánicos, diseño de máquinas, elementos de máquinas, mecánica de materiales y métodos numericos",7,0,Diciembre_471
+Diciembre,4.0,2.0,2.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Diseño de Maquinas, Transferencia de calor, Termodinamica, Ciencia de Materiales, Desgaste y Falla",7,0,Diciembre_472
+Diciembre,5.0,5.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Elementos de máquinas, Tranferencia de calor aplicada, Ciencia de materiales, Desgaste y falla, Ensayos No Destructivos, Dibujo mecanico y CAD y Diseño de máquinas",3,1,Diciembre_473
+Diciembre,4.0,3.0,3.0,6.0,5.0,4.0,2.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Mecánica de materiales, Dibujo Mecánico y CAD, Estructuras de Acero, Diseño de máquinas.",3,1,Diciembre_474
+Diciembre,6.0,5.0,3.0,6.0,4.0,4.0,6.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,Aplicaciones Web,0,1,Diciembre_475
+Diciembre,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Desgaste y falla, Termodinámica, Transferencia de calor, Ciencia de materiales aplicada",7,0,Diciembre_476
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Calidad del agua, gestión de residuos peligrosos, suelos, agua potable y alcantarillado",7,0,Diciembre_477
+Diciembre,5.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Ingeniería sísmica, Diseño de proyectos estructurales, Diseño de proyectos hidráulicos, Materiales, Hormigón, Flexión y Corte, Instalaciones Hidráulicas",7,0,Diciembre_478
+Diciembre,4.0,3.0,2.0,4.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Más de 2 años,distribución,3,1,Diciembre_479
+Diciembre,5.0,5.0,5.0,5.0,5.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"POO, PROGRAMACIÓN, ARQUITECTURA DE COMPUTADORES",7,0,Diciembre_480
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Mecánica de materiales, Transferencia de calor, materiales compuestos, métodos numéricos",7,0,Diciembre_481
+Diciembre,5.0,5.0,4.0,5.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Logistica y distribcucion, Cadena de suministro, planificacion de la produccion, gestion de procesos",3,1,Diciembre_482
+Diciembre,4.0,4.0,3.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Programación I y II, Ingeniería de Software, Metodologías ágiles, Diseño de Software, Calidad de Software, Validación y Verificación de Software.",7,0,Diciembre_483
+Diciembre,5.0,3.0,3.0,5.0,4.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Indroducción a la Cosmología, Introducción a la Relatividad General, Mecánica Cuántica, Programación Científica.",7,0,Diciembre_484
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Cálculo, Probabilidad y Estadística, Álgebra, Mecánica Newtoniana",7,0,Diciembre_485
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Tratamiento de aguas residuales,7,0,Diciembre_486
+Diciembre,5.0,5.0,4.0,5.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Fiscalización,7,0,Diciembre_487
+Diciembre,6.0,4.0,4.0,5.0,3.0,2.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Termodinámica, Mecánica de Fluidos, Dinámica, Estática, Transferencia de Calor, Soldadura",3,1,Diciembre_488
+Diciembre,3.0,1.0,1.0,1.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Gestión por procesos, procesos industriales, programación de la producción",3,1,Diciembre_489
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"INTELIGENCIA ARTIFICIAL, APLICACIONES MÓVILES, APLICACIONES WEB, INGENIERÍA DE SOFTWARE II, CLOUD COMPUTING, INGENIERÍA FINANCIERA, FUNDAMENTOS DE BASES DE DATOS",7,0,Diciembre_490
+Diciembre,3.0,3.0,2.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Probabilidad, Base de Datos Distribuida, calculo en una variable",7,0,Diciembre_491
+Diciembre,5.0,6.0,2.0,3.0,2.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Gestión de procesos, diseño de proyectos hidráulicos",3,1,Diciembre_492
+Diciembre,3.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Análisis de agua natural y aguas residuales,7,0,Diciembre_493
+Diciembre,6.0,6.0,4.0,5.0,4.0,4.0,4.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Dinámica, estática, transferencia de calor, estructuras, mecánica de materiales, programas cad",3,1,Diciembre_494
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Evaluación de impactos ambientales, seguridad y salud ocupacional, residuos, ordenamiento territorial, legislación ambiental",7,0,Diciembre_495
+Diciembre,5.0,5.0,4.0,5.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Más de 2 años,"Programación, Redes y telecomunicaciones, y Gestión de Proyectos",3,1,Diciembre_496
+Diciembre,5.0,4.0,3.0,5.0,4.0,3.0,4.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"HCI, Programación, desarrollo web, bases de datos",3,1,Diciembre_497
+Diciembre,5.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Evaluación de impactos, calidad del agua, depuración, salud y seguridad ocupacional",7,0,Diciembre_498
+Diciembre,6.0,5.0,4.0,5.0,5.0,5.0,4.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,"programación orientada a objetos, programación, bases de datos, aplicaciones web, sistemas operativos",0,1,Diciembre_499
+Diciembre,5.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Diseño de Proyectos Estructurales, Diseño de Proyectos Hidráulicos, Ingeniería Sísmica, Diseño de Puentes, Aplicaciones computacionales en estructuras",7,0,Diciembre_500
+Diciembre,5.0,5.0,5.0,6.0,6.0,6.0,5.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) DESARROLLO DE SOFTWARE,Si,Menos de 6 meses,"Desarrollo de aplicaciones web, desarrollo de aplicaciones móviles, análisis de datos",3,1,Diciembre_501
+Diciembre,4.0,4.0,5.0,4.0,5.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Diseño, Metrología, Electricidad",7,0,Diciembre_502
+Diciembre,5.0,4.0,4.0,4.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,Si,Entre 6 meses y 1 año,"Màquinas Electricas, Instalaciones Elèctricas, Sistemas Elèctricos de Potencia, Centrales de Generacion, Sistemas Elèctricos de Distribuciòn, Calidad de la Energìa",0,1,Diciembre_503
+Diciembre,5.0,3.0,4.0,5.0,3.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Desarrollo de aplicaciones web, programación, algoritmos y estructuras de datos",7,0,Diciembre_504
+Diciembre,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,Ninguna todas no sirven de nada,7,0,Diciembre_505
+Diciembre,5.0,3.0,2.0,4.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Hormigón vigas (hormigón, corte y torsión), Topografía (docente ineficiente), Diseño de Proyectos Estructurales, Diseño de Proyectos Hidráulicos, Aplicaciones Computacionales en Estructuras, Aplicaciones Computacionales en Hidráulica, Costos en la Construcción (docente ineficiente-pésima pedagogía), Fiscalización (Docente ineficiente-pésima pedagogía), Alcantarillado, Hidráulica de Canales y Tuberías, Resistencia de Materiales Vigas, Hidrología Básica, Hidrología Aplicada, Hidráulica Fluvial",7,0,Diciembre_506
+Diciembre,6.0,5.0,5.0,6.0,6.0,6.0,5.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,Instrumentación Industrial,3,1,Diciembre_507
+Diciembre,4.0,4.0,3.0,3.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Química, Contaminación del Agua, Contaminación del Suelo, Contaminación del Aire, Evaluación de Impactos Ambientales, Legislación Ambiental",7,0,Diciembre_508
+Diciembre,4.0,4.0,3.0,3.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Evaluación de impacto ambiental, manejo de residuos peligrosos, Seguridad y Salud Ocupacional",7,0,Diciembre_509
+Diciembre,3.0,4.0,4.0,4.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Gestión de recursos naturales, Economía ambiental, Gestión de residuos peligrosos, Legislación Ambiental",7,0,Diciembre_510
+Diciembre,5.0,5.0,4.0,3.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"En mi caso me interesaron la toxicología, los análisis de laboratorio, la legislación ambiental",7,0,Diciembre_511
+Diciembre,4.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,-,7,0,Diciembre_512
+Diciembre,6.0,6.0,4.0,5.0,6.0,4.0,6.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Proyectos estructurales, Hormigón I, Hormigón II",3,1,Diciembre_513
+Diciembre,6.0,6.0,5.0,6.0,6.0,5.0,5.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Estructuras,3,1,Diciembre_514
+Diciembre,5.0,5.0,5.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Resistencia de materiales, estructuras planas, Mecánica de suelos",7,0,Diciembre_515
+Diciembre,4.0,4.0,3.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Las q continúan a partir de las básicas,7,0,Diciembre_516
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"dinamica, Estudios de Sep, Estabilidad de SEP, Maquinas electricas",7,0,Diciembre_517
+Diciembre,5.0,5.0,5.0,5.0,4.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,ITINERARIO AVANZADO DE REDES INTELIGENTES,3,1,Diciembre_518
+Diciembre,4.0,4.0,4.0,4.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Todas,3,1,Diciembre_519
+Diciembre,4.0,3.0,3.0,4.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,No,,"Inteligencia artificial, Cloud computing",7,0,Diciembre_520
+Diciembre,5.0,5.0,6.0,5.0,5.0,4.0,6.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Gestión de Proyectos de software, aplicaciones web, diseño de software, estructura de datos, BI",0,1,Diciembre_521
+Diciembre,5.0,1.0,1.0,5.0,2.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,No,,"Estadística, Procesos Estocásticos, Series Temporales,Econometría",7,0,Diciembre_522
+Diciembre,5.0,5.0,4.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"Instrumentación industrial, redes, control industrial, sensores y transductores",3,1,Diciembre_523
+Diciembre,4.0,3.0,5.0,5.0,5.0,5.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) MECÁNICA,Si,Entre 6 meses y 1 año,"Mecánica de materiales, END, Desgaste y Falla, Ciencias de materiales",0,1,Diciembre_524
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,Procesos Industriales,7,0,Diciembre_525
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Aplicaciones Distribuidas,7,0,Diciembre_526
+Diciembre,3.0,1.0,3.0,2.0,3.0,4.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,(RRA20) MECÁNICA,Si,Más de 2 años,"Gestión organizacional, diseño de máquinas, dibujo mecánico y cad",3,1,Diciembre_527
+Diciembre,6.0,5.0,4.0,5.0,4.0,4.0,5.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"Electricidad, electrónica de potencia, microcontroladores, biométrica",3,1,Diciembre_528
+Diciembre,6.0,5.0,6.0,6.0,5.0,5.0,5.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ELECTRICIDAD,Si,Entre 1 y 2 años,"Instalaciones de Medio Voltaje, Alto Voltaje, Máquinas Electricas, Control Industrial",0,1,Diciembre_529
+Diciembre,1.0,2.0,2.0,5.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA,No,,"Análisis Real, Análisis Complejo, Teoría de la Medida, Topología, EDP",7,0,Diciembre_530
+Diciembre,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,Hmi y control industrial,7,0,Diciembre_531
+Diciembre,3.0,3.0,2.0,3.0,3.0,3.0,2.5,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Estructuras planas, Mecánica de suelos, Hormigón, Aplicaciones computacionales en estructuras",3,1,Diciembre_532
+Diciembre,5.0,5.0,5.0,5.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGROINDUSTRIA,No,,"Química, física, cálculo",7,0,Diciembre_533
+Diciembre,4.0,3.0,3.0,3.0,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,Todas a partir de 4to semestre,7,0,Diciembre_534
+Diciembre,3.0,3.0,3.0,3.0,4.0,4.0,3.5,0.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) COMPUTACIÓN,Si,Más de 2 años,Programación,3,1,Diciembre_535
+Diciembre,6.0,5.0,3.0,6.0,4.0,3.0,5.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,Tcp,3,1,Diciembre_536
+Diciembre,4.0,4.0,3.0,6.0,4.0,4.0,5.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,Inteligencia Artificial y Aprendizaje Automático.,3,1,Diciembre_537
+Diciembre,5.0,6.0,5.0,6.0,6.0,6.0,6.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Base de Datos, Aplicaciones Web, Aplicaciones Web Avanzadas, Metodologías Ágiles, Aplicaciones Móviles, Interacción Humano Computador, Sistemas Embebidos",0,1,Diciembre_538
+Diciembre,5.0,5.0,4.0,5.0,4.0,5.0,5.5,0.0,1.0,1.0,0.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Desarrollo de aplicaciones web, bases de datos, metodologías ágiles",0,1,Diciembre_539
+Diciembre,5.0,6.0,4.0,5.0,5.0,5.0,5.5,0.0,0.0,1.0,0.0,1.0,1.0,0.5,(RRA20) ELECTRICIDAD,Si,Menos de 6 meses,"Optimización, Calidad de energía, Centrales de generación",3,1,Diciembre_540
+Diciembre,4.0,5.0,4.0,5.0,4.0,3.0,5.5,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,Ciencia de materiales,3,1,Diciembre_541
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"POO, Bases de datos,  ciberseguridad, redes, algoritmos.",7,0,Diciembre_542
+Diciembre,5.0,5.0,5.0,6.0,4.0,4.0,6.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Programación, ing de software, app web, app moviles",3,1,Diciembre_543
+Diciembre,5.0,3.0,2.0,4.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Control Industrial, Automatización con PLCs, Sistemas SCADA, Instrumentación Industrial, Instalaciones Industriales",7,0,Diciembre_544
+Diciembre,4.0,3.0,2.0,5.0,4.0,4.0,3.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Mecánica de fluidos, Desgaste y falla, Calculo, Programación",3,1,Diciembre_545
+Diciembre,6.0,4.0,4.0,6.0,4.0,3.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,Electrónica de Potencia,3,1,Diciembre_546
+Diciembre,4.0,4.0,3.0,4.0,3.0,3.0,3.5,0.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,"Inteligencia Artificial, Machine Learning, Ingeniería de Software II, Recuperación de la Información.",3,1,Diciembre_547
+Diciembre,4.0,4.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,Si,Menos de 6 meses,"Analisis multivariante y mineria de datos, Económetria, Series temporales, Probabilidad y estadistica, Programación estructurada",3,1,Diciembre_548
+Diciembre,5.0,1.0,4.0,6.0,3.0,4.0,3.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Instrumentación Industrial, Automatizacion usando PLCs, Mandos Neumáticos, Control de procesos industriales",3,1,Diciembre_549
+Diciembre,5.0,3.0,4.0,5.0,4.0,4.0,4.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,Inteligencia Artificial y Aprendizaje Automático,3,1,Diciembre_550
+Diciembre,3.0,4.0,4.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Automatización usando PLcs, Redes industriales",7,0,Diciembre_551
+Diciembre,5.0,4.0,3.0,5.0,6.0,6.0,5.5,0.0,0.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Ingeniería de Software y de Requerimientos, Aplicaciones Web, Profesionalismo en Informática",3,1,Diciembre_552
+Diciembre,6.0,5.0,3.0,6.0,3.0,3.0,6.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,(RRA20) COMPUTACIÓN,Si,Entre 1 y 2 años,"Redes,DesarrolloSofftware,DesorroloMovil,TecnologiasInformacion",0,1,Diciembre_553
+Diciembre,5.0,3.0,3.0,5.0,4.0,4.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Más de 2 años,Cloud Computing,3,1,Diciembre_554
+Diciembre,5.0,6.0,5.0,6.0,4.0,5.0,4.5,0.0,0.0,1.0,1.0,0.0,0.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Menos de 6 meses,"Sistemas IoT, LAN, WLAN, WAN, Hacking ético",3,1,Diciembre_555
+Diciembre,4.0,2.0,4.0,5.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,(RRA20) COMPUTACIÓN,Si,Más de 2 años,"Auditoria con el ing Naranjo, inteligencia artificial con el ing Banda, base de datos ING Rosita",3,1,Diciembre_556
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Diseño Mecánico,  Mecánica de fluidos",7,0,Diciembre_557
+Diciembre,6.0,4.0,5.0,6.0,5.0,6.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Programación orientada a objetos, diseño de software, metodologías ágiles",3,1,Diciembre_558
+Diciembre,4.0,3.0,2.0,5.0,2.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,"WEB, videojuegos, computación gráfica, IA,",0,1,Diciembre_559
+Diciembre,6.0,3.0,3.0,5.0,6.0,4.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"ELECTRONICA DE POTENCIA, SISTEMAS ELECTRICOS, MAQUINAS ELECTRICAS, CONTROL AUTOMÁTICO, CONTROL NEUMÁTICO",3,1,Diciembre_560
+Diciembre,6.0,6.0,3.0,6.0,4.0,6.0,5.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Metodologias Ágiles, Automatización de procesos, Software Seguro, Interaccion Humano Computador, Programación, Gestión de proyectos de software, Calidad de Software",0,1,Diciembre_561
+Diciembre,6.0,3.0,4.0,5.0,2.0,2.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Diseño de máquinas, CAD, Estática, Dinámica",3,1,Diciembre_562
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,"Logística, cadena de suministro, programación de la producción",7,0,Diciembre_563
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Dinujo Mecánico, Dinpamica, termodinámica, transferencia de calor, materiales nuevos",7,0,Diciembre_564
+Diciembre,4.0,5.0,5.0,6.0,4.0,3.0,4.5,1.0,0.0,1.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,Ingeniería de requisitos,3,1,Diciembre_565
+Diciembre,5.0,5.0,3.0,5.0,5.0,3.0,2.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Diseño mecánico, mecanica de materiales, ciencia de materiales, transferencia de calor, ensayos no destructivos",3,1,Diciembre_566
+Diciembre,6.0,5.0,5.0,6.0,6.0,6.0,5.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Estructura de Datos II, Inteligencia de Negocios, Interacción Humano Computador, Metodologías Ágiles, Aplicaciones Web Avanzadas, Automatización de Procesos",0,1,Diciembre_567
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,"Instalación eléctricas, Maquinas eléctrica, Control Electromecánico",7,0,Diciembre_568
+Diciembre,3.0,3.0,3.0,3.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA,No,,Programación,7,0,Diciembre_569
+Diciembre,5.0,4.0,3.0,3.0,5.0,5.0,3.5,0.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Entre 6 meses y 1 año,Costos en la construcción,0,1,Diciembre_570
+Diciembre,5.0,4.0,5.0,6.0,5.0,5.0,4.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 1 y 2 años,"Cadena de suministro, inventarios , logística , producción",0,1,Diciembre_571
+Diciembre,4.0,4.0,4.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Programación, Aplicaciones web, Computación gráfica, arquitectura de computadores",7,0,Diciembre_572
+Diciembre,4.0,4.0,4.0,5.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Base de datos,  HCI, Aplicaciones web",3,1,Diciembre_573
+Diciembre,5.0,5.0,4.0,5.0,3.0,3.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,Si,Menos de 6 meses,"Control electromecánico, electricidad, instrumentación y control y sistemas HMI",3,1,Diciembre_574
+Diciembre,4.0,4.0,2.0,3.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Las asignaturas más relevantes durante mi formación fueron, en la parte básica, Álgebra y Cálculo, porque proporcionaron las bases necesarias para comprender las ciencias aplicadas. En cuanto a la carrera, Petrografía, Sedimentología y Estratigrafía, Geofísica, Cuencas Sedimentarias y Geotecnia fueron las más importantes, ya que tienen una aplicación directa en la industria.",7,0,Diciembre_575
+Diciembre,5.0,4.0,4.0,5.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,"Instrumentación, control electromecanico, control y sistemas HMI",7,0,Diciembre_576
+Diciembre,6.0,6.0,6.0,6.0,6.0,6.0,5.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Entre 1 y 2 años,"Gestiòn de Procesos y Calidad, Gestion de proyectos",0,1,Diciembre_577
+Diciembre,4.0,4.0,5.0,5.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,"TCP/IP, REDES DE COMPUTADORAS, REDES INALAMBRICAS, REDES DE SIGUIENTE GENERACIÓN, SISTEMAS DE TELECOMUNICACIONES",7,0,Diciembre_578
+Diciembre,4.0,4.0,5.0,5.0,5.0,5.0,5.5,0.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"HORMIGON, HIDRAULICA",3,1,Diciembre_579
+Diciembre,6.0,4.0,3.0,6.0,6.0,5.0,4.5,0.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) TELECOMUNICACIONES,Si,Menos de 6 meses,"Propagación y Antenas, Sistemas Celulares, Telemática, Redes de Microondas",3,1,Diciembre_580
+Diciembre,4.0,4.0,4.0,4.0,3.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Gestión de proyectos, Diseño de plantas, Mecánica de fluidos, Balance masa y energía",7,0,Diciembre_581
+Diciembre,5.0,4.0,4.0,4.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,"Costos en la construcción, Fiscalización, Mecánica de suelos básica, Construcciones civiles, Vigas, Hormigón",3,1,Diciembre_582
+Diciembre,5.0,5.0,5.0,5.0,5.0,3.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"Electrónica, Electricidad, Networking",3,1,Diciembre_583
+Diciembre,4.0,3.0,4.0,5.0,3.0,4.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,Si,Menos de 6 meses,Finanzas,3,1,Diciembre_584
+Diciembre,6.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Aplicaciones Web, Bases de Datos, Metodologías Ágiles",3,1,Diciembre_585
+Diciembre,4.0,4.0,3.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"Mecánica estadística, relatividad general, mecánica cuántica, óptica, mecánica analítica",7,0,Diciembre_586
+Diciembre,5.0,5.0,5.0,3.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Geología del Ecuador, Geomorfología, Geotécnia",7,0,Diciembre_587
+Diciembre,4.0,2.0,2.0,3.0,2.0,5.0,2.5,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) MATEMÁTICA APLICADA,Si,Más de 2 años,"Estadística, Multivariante",3,1,Diciembre_588
+Diciembre,4.0,3.0,4.0,4.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Programación, Estructura de datos y algoritmos, Diseño de software, Bases de datos, Aplicaciones web, Interacción humano computador, Verificación y validación de software",7,0,Diciembre_589
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,(RRA20) INGENIERÍA CIVIL,Si,Menos de 6 meses,Liderazgo,3,1,Diciembre_590
+Diciembre,6.0,6.0,6.0,5.0,5.0,6.0,5.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,(RRA20) ELECTROMECÁNICA,Si,Menos de 6 meses,"Control HMI, Refrigeracion",3,1,Diciembre_591
+Diciembre,3.0,4.0,3.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) SOFTWARE,No,,"Programación I, Programación II, Sistemas Operativos, Ingeniería de Software y de requerimientos, Fundamentos de Bases de datos, Diseño de Software, Aplicaciones Web, Metodologías Ágiles",7,0,Diciembre_592
+Diciembre,5.0,5.0,5.0,5.0,5.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,No,,"Desarrollo, redes",7,0,Diciembre_593
+Diciembre,5.0,4.0,3.0,5.0,3.0,3.0,4.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Programación, desarrollo web, bases de datos.",3,1,Diciembre_594
+Diciembre,5.0,5.0,4.0,5.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,"Caracterización del agua, alcantarillado, gestión ambiental, hidráulica, tratamiento de aguas residuales",7,0,Diciembre_595
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,Si,Entre 6 meses y 1 año,"Potabilización, Química, Gestión Ambiental.",0,1,Diciembre_596
+Diciembre,4.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Transferencia de calor, control de sistemas mecánicos, ensayos no destructivos, motores de combustión interna, desgaste y falla, gestión de procesos y calidadSisr",7,0,Diciembre_597
+Diciembre,3.0,3.0,3.0,5.0,3.0,2.0,3.5,0.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) COMPUTACIÓN,Si,Menos de 6 meses,Ingeniería de software,3,1,Diciembre_598
+Diciembre,4.0,5.0,4.0,4.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,No,,"Petrografía, mineralogía óptica, geología del ecuador, petrologias",7,0,Diciembre_599
+Diciembre,4.0,2.0,4.0,5.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,Si,Menos de 6 meses,"Grafos, Programación Lineal, Implementación de Programas Enteros, Modelos de Riesgo, Actuarial.",3,1,Diciembre_600
+Diciembre,5.0,5.0,5.0,4.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,No,,"Micro, Econometría, Cálculo, Macro, Economía Pública",7,0,Diciembre_601
+Diciembre,5.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"FundamentosIA, Programación, IoT, Desarrollo de Aplicaciones Web",7,0,Diciembre_602
+Diciembre,6.0,5.0,6.0,5.0,4.0,5.0,5.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Mantenimiento, ofimática",3,1,Diciembre_603
+Diciembre,6.0,5.0,5.0,6.0,4.0,4.0,4.5,1.0,1.0,1.0,1.0,0.0,0.0,0.5,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,"Cableado Estructurado, Comunicaciones Ópticas, Comunicaciones Inalámbricas, Sistemas Operativos, Intranets, Seguridad en Redes",3,1,Diciembre_604
+Diciembre,5.0,5.0,5.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,CAM CNC,7,0,Diciembre_605
+Diciembre,3.0,4.0,5.0,4.0,5.0,3.0,4.5,1.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,HCI,3,1,Diciembre_606
+Diciembre,4.0,3.0,3.0,3.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,Si,Entre 6 meses y 1 año,"Balance de energía y masa, tranferencia de calor, masa, mecánica de fluidos, ingeniería de las reacciones, materiales",0,1,Diciembre_607
+Diciembre,6.0,2.0,3.0,6.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,Si,Entre 6 meses y 1 año,"Modelos de Riesgo, Análisis Multivariante y Minería de Datos",0,1,Diciembre_608
+Diciembre,3.0,4.0,3.0,3.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Entre 6 meses y 1 año,"Verificación y validación de software, Calidad de software, Diseño de software.",0,1,Diciembre_609
+Diciembre,4.0,4.0,2.0,4.0,4.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) MECÁNICA,No,,"Soldadura, Ensayos No Destructivos (solo es de itinerario, pero debería ser obligatoria), Herramientas Informáticas, Dibujo mecánico y CAD, Estructuras de Acero, Mecánica de Materiales, Ciencia de Materiales, Transferencia de Calor, Termodinámica, Mecánica de Fluidos.",7,0,Diciembre_610
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ECONOMÍA,No,,"Econometría, macroeconomía",7,0,Diciembre_611
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,Diseño de Estructuras,7,0,Diciembre_612
+Diciembre,6.0,4.0,5.0,6.0,6.0,6.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Entre 1 y 2 años,Base de datos distribuidas,0,1,Diciembre_613
+Diciembre,5.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"Sep, maquinas",7,0,Diciembre_614
+Diciembre,2.0,3.0,4.0,5.0,2.0,2.0,3.5,1.0,0.0,0.0,1.0,0.0,0.0,0.5,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,Automatización de PLCs,3,1,Diciembre_615
+Diciembre,4.0,4.0,5.0,4.0,5.0,5.0,4.5,1.0,0.0,0.0,0.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"termodinámica, elementos de maquinas, itinerarios y problemas de ingenieria",3,1,Diciembre_616
+Diciembre,6.0,5.0,5.0,6.0,3.0,3.0,5.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Entre 1 y 2 años,"Control industrial, Instalaciones eléctricas industriales, Instrumentación industrial, Electrónica de Potencia, Accionamientos electrónicos, Redes Industriales, Mandos neumáticos",0,1,Diciembre_617
+Diciembre,6.0,5.0,5.0,5.0,5.0,4.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"ELECTRONICA DE POTENCIA, INSTRUMENTACION, CONTROL",3,1,Diciembre_618
+Diciembre,3.0,3.0,4.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Plc, control industrial, instrumentación, sistemas embebidos",7,0,Diciembre_619
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,Mecánica de fluodos,7,0,Diciembre_620
+Diciembre,5.0,5.0,5.0,5.0,4.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,No,,"Gestión de procesos y calidad, Lineas de producción, logística y abastecimiento, programación de la producción, cadena de suministro.",7,0,Diciembre_621
+Diciembre,5.0,5.0,4.0,4.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Sistemas Microprocesados, Redes Industriales, Instrumentación, Control de Procesos Industriales",7,0,Diciembre_622
+Diciembre,6.0,5.0,5.0,6.0,3.0,3.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Balance de Masa, Ingeniería Financiera, Química Analítica, Química Orgánica",3,1,Diciembre_623
+Diciembre,6.0,4.0,4.0,6.0,3.0,2.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,Si,Menos de 6 meses,"Estadística y Probabilidad, Matemática Actuarial, Modelos de riesgos, Simulación, Series Temporales",3,1,Diciembre_624
+Diciembre,3.0,3.0,3.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Programación,7,0,Diciembre_625
+Diciembre,5.0,4.0,4.0,4.0,4.0,3.0,4.5,0.0,1.0,0.0,0.0,0.0,0.0,0.5,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Logistica y Distribución, Gestion de Procesos y Calidad",3,1,Diciembre_626
+Diciembre,5.0,5.0,4.0,4.0,5.0,4.0,5.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Diseño de plantas, ingeniería de la reacción",3,1,Diciembre_627
+Diciembre,4.0,1.0,1.0,6.0,3.0,4.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) MATEMÁTICA APLICADA,Si,Menos de 6 meses,"Modelos de riesgo, simulación, multivariante",3,1,Diciembre_628
+Diciembre,6.0,5.0,4.0,5.0,5.0,5.0,5.5,0.0,1.0,1.0,1.0,1.0,1.0,0.5,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,Operaciones unitarias y preservación y conservación de alimentos,3,1,Diciembre_629
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,No,,"Control Electromecánica, electricidad, control y sistemas hmi, electrónica,",7,0,Diciembre_630
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRICIDAD,No,,"Cursos de SEP, programación, optimización",7,0,Diciembre_631
+Diciembre,5.0,5.0,5.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Legislación ambiental, climatología y metereologia, calidad del agua, microbiología",7,0,Diciembre_632
+Diciembre,5.0,5.0,4.0,5.0,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA CIVIL,No,,"Hormigón, Estructuras planas y Ética",7,0,Diciembre_633
+Diciembre,5.0,5.0,5.0,5.0,3.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,Intranets,7,0,Diciembre_634
+Diciembre,6.0,5.0,6.0,4.0,4.0,5.0,5.5,1.0,1.0,0.0,1.0,1.0,1.0,0.5,(RRA20) MECÁNICA,Si,Menos de 6 meses,"Materiales, CAD, Ensayos no destructivos",3,1,Diciembre_635
+Diciembre,5.0,5.0,5.0,5.0,6.0,5.0,5.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,(RRA20) INGENIERÍA DE LA PRODUCCIÓN,Si,Menos de 6 meses,"Produccion, proyectos, logistica",3,1,Diciembre_636
+Diciembre,2.0,4.0,5.0,6.0,2.0,5.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,"Calidad de Software, Diseño de Software, Interacción Humano Computador",3,1,Diciembre_637
+Diciembre,4.0,4.0,4.0,3.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) REDES Y TELECOMUNICACIONES,No,,TCP,7,0,Diciembre_638
+Diciembre,6.0,5.0,5.0,6.0,5.0,5.0,5.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN,Si,Más de 2 años,"Redes LAN,Redes WAN, Intranets",3,1,Diciembre_639
+Diciembre,5.0,4.0,3.0,5.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Desarrollo de aplicaciones moviles, IoT, Redes",7,0,Diciembre_640
+Diciembre,4.0,3.0,2.0,4.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Instrumentación Industrial, Instrumentación Biomédica, Visión Artificial",7,0,Diciembre_641
+Diciembre,5.0,5.0,5.0,5.0,5.0,4.0,6.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,(RRA20) SOFTWARE,Si,Menos de 6 meses,Aplicaciones Web con el Phd. Iñiguez al igual que HCI. Calidad con la Phd. Sandra Sancehz de igual forma.,3,1,Diciembre_642
+Diciembre,6.0,6.0,6.0,6.0,5.0,4.0,6.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,(RRA20) DESARROLLO DE SOFTWARE,Si,Entre 6 meses y 1 año,IA- ProgramacionOrientada a Objetos,0,1,Diciembre_643
+Diciembre,5.0,5.0,4.0,3.0,4.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Fisicoquímica, Química Analítica, Mecánica de Fluidos, Polímeros",7,0,Diciembre_644
+Diciembre,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) AGUA Y SANEAMIENTO AMBIENTAL,No,,Gestión de desechos,7,0,Diciembre_645
+Diciembre,5.0,5.0,4.0,4.0,5.0,4.0,5.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,(RRA20) REDES Y TELECOMUNICACIONES,Si,Menos de 6 meses,Seguridades y Redes de la siguiente Generacion,3,1,Diciembre_646
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"Automatización utilizando Plcs, Redes industriales, instrumentación industrial",7,0,Diciembre_647
+Diciembre,5.0,4.0,4.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) GEOLOGÍA,Si,Menos de 6 meses,"Petrografía, Exploración de Yacimientos, Yacimientos Minerales, Geología del Petróleo, Geología del Ecuador",3,1,Diciembre_648
+Diciembre,5.0,4.0,2.0,3.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA AMBIENTAL,No,,"Estudio de Impacto Ambiental, Economía Ambiental, Química, Biología, Calidad del Agua, SIG, Meteorología y Climatología, Residuos Sólidos Municipales, Legislación Ambiental, Seguridad y Salud Ocupacional, Gestión Integral de Residuos Peligrosos",7,0,Diciembre_649
+Diciembre,5.0,5.0,3.0,4.0,3.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Instrumentación, PLCs, Redes",3,1,Diciembre_650
+Diciembre,6.0,5.0,3.0,6.0,5.0,3.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Automatización con Plcs, Redes Industriales",3,1,Diciembre_651
+Diciembre,4.0,3.0,3.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) INGENIERÍA QUÍMICA,No,,"Programación, simulación, transferencias, gestión empresarial",7,0,Diciembre_652
+Diciembre,5.0,5.0,5.0,4.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ADMINISTRACIÓN DE EMPRESAS,No,,"Recursos Humanos, Administración, Estadistica",7,0,Diciembre_653
+Diciembre,5.0,5.0,4.0,5.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,"Desarrollo de apps web, Analisis de datos, Redes",7,0,Diciembre_654
+Diciembre,3.0,3.0,3.0,4.0,3.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTROMECÁNICA,Si,Menos de 6 meses,Control electromecánico,3,1,Diciembre_655
+Diciembre,5.0,3.0,3.0,5.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) FÍSICA,No,,"ANÁLISIS FUNCIONAL (QUE LA QUITARON EN LUGAR DE DIVIDIRLA EN 2 SEMESTRES Y QUE SEA DADA POR UN MATEMÁTICO), ÁLGEBRA I (QUE DEBERÍA COMBINARSE CON ÁLGEBRA LINEAL Y DIVIDIRSE EN 2 SEMESTRES), EDO, MECÁNICA CUÁNTICA I Y II, ELECTRODINÁMICA I Y II, MECÁNICA CLÁSICA I, Y II, ONDAS (UNDERRATED), MECÁNICA ESTADÍSTICA (QUE DEBERÍA UNIRSE CON TERMODINÁMICA, DIVIDIRSE EN 2 SEMESTRES Y SER ENSEÑADA DE UNA MEJOR MANERA).",7,0,Diciembre_656
+Diciembre,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Más de 2 años,"Calculo, programación, física",3,1,Diciembre_657
+Diciembre,6.0,3.0,4.0,5.0,3.0,3.0,4.5,0.0,1.0,0.0,1.0,0.0,0.0,0.5,(RRA20) SOFTWARE,Si,Menos de 6 meses,POO,3,1,Diciembre_658
+Diciembre,4.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) DESARROLLO DE SOFTWARE,No,,Programación,7,0,Diciembre_659
+Diciembre,5.0,5.0,4.0,5.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) COMPUTACIÓN,Si,Entre 6 meses y 1 año,"Probabilidad y Estadística, Inteligencia Artificial, Recuperación de la Información, Cloud Computing",0,1,Diciembre_660
+Diciembre,6.0,5.0,4.0,5.0,5.0,6.0,4.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,(RRA20) INGENIERÍA QUÍMICA,Si,Menos de 6 meses,"Termodinámica I, Transferencia de Calor I, Transferencia de Calor II, Operaciones Unitarias I y II, Modelado y Control Automático, Microbiología y Conservación de los Alimentos",3,1,Diciembre_661
+Diciembre,5.0,4.0,4.0,4.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,No,,"SCADA, REDES INDUSTRIALES, PROGRAMACIÓN, CONTROL EMBEBIDO",7,0,Diciembre_662
+Diciembre,3.0,3.0,2.0,4.0,3.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN,Si,Menos de 6 meses,"Microcontroladores, Control Embebido",3,1,Diciembre_663
+Diciembre,4.0,2.0,2.0,2.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,(RRA20) TELECOMUNICACIONES,No,,"Comunicación Inalámbrica, Telemática",7,0,Diciembre_664
